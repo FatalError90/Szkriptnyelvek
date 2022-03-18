@@ -1,0 +1,691 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:From a viscous fluid to particles
+DTSTART;VALUE=DATE-TIME:20101129T135000Z
+DTEND;VALUE=DATE-TIME:20101129T143000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320908@indico.cern.ch
+DESCRIPTION:Speakers: Denes Molnar (Purdue University\, West Lafayette\, U
+ SA)\nhttps://indico.cern.ch/event/113717/contributions/1320908/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320908/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dilepton production at relativistic energies
+DTSTART;VALUE=DATE-TIME:20101201T100000Z
+DTEND;VALUE=DATE-TIME:20101201T103000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320909@indico.cern.ch
+DESCRIPTION:Speakers: György Wolf (MTA KFKI RMKI\, Budapest\, Hungary)\nh
+ ttps://indico.cern.ch/event/113717/contributions/1320909/
+LOCATION:2nd Elevated floor\, Building III\,  KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320909/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jet quenching in p+p collisions at LHC
+DTSTART;VALUE=DATE-TIME:20101130T155000Z
+DTEND;VALUE=DATE-TIME:20101130T162000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320967@indico.cern.ch
+DESCRIPTION:Speakers: G. Vesztergombi (KFKI Research Insitute)\nhttps://in
+ dico.cern.ch/event/113717/contributions/1320967/
+LOCATION:MTA KFKI RMKI\, Building III Building 3\, Tanácsterem\, MTA KFKI
+  RMKI
+URL:https://indico.cern.ch/event/113717/contributions/1320967/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MWPC option for HPTD: the Close Cathode Chamber
+DTSTART;VALUE=DATE-TIME:20101203T091000Z
+DTEND;VALUE=DATE-TIME:20101203T092500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320911@indico.cern.ch
+DESCRIPTION:Speakers: Gábor Kiss (ELTE University\, Budapest\, Hungary)\n
+ https://indico.cern.ch/event/113717/contributions/1320911/
+LOCATION:MTA KFKI RMKI\, Building III MTA KFKI RMKI\, Budapest XII\, Konko
+ ly-Thege 29-33\, Building 3\, floor 2\, Council Room (Tanácsterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320911/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Higt pT upgrade of ALICE: the VHMPID\, and its present state
+DTSTART;VALUE=DATE-TIME:20101203T092500Z
+DTEND;VALUE=DATE-TIME:20101203T094000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320912@indico.cern.ch
+DESCRIPTION:Speakers: Gergõ Hamar (MTA KFKI RMKI\, Budapest\, Hungary)\nh
+ ttps://indico.cern.ch/event/113717/contributions/1320912/
+LOCATION:MTA KFKI RMKI\, Building III MTA KFKI RMKI\, Budapest XII\, Konko
+ ly-Thege 29-33\, Building 3\, floor 2\, Council Room (Tanácsterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320912/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muon tomography experiments in the Janossy pit
+DTSTART;VALUE=DATE-TIME:20101203T094000Z
+DTEND;VALUE=DATE-TIME:20101203T100000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320913@indico.cern.ch
+DESCRIPTION:Speakers: László Oláh (ELTE University)\nhttps://indico.cer
+ n.ch/event/113717/contributions/1320913/
+LOCATION:MTA KFKI RMKI\, Building III MTA KFKI RMKI\, Budapest XII\, Konko
+ ly-Thege 29-33\, Building 3\, floor 2\, Council Room (Tanácsterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320913/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:About the digital electronics of the High pT Trigger Detector
+DTSTART;VALUE=DATE-TIME:20101203T103500Z
+DTEND;VALUE=DATE-TIME:20101203T105000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320914@indico.cern.ch
+DESCRIPTION:Speakers: Csaba Lipusz (MTA KFKI RMK)\nhttps://indico.cern.ch/
+ event/113717/contributions/1320914/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320914/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The influence of the weak interactions on the inclusive hadron spe
+ ctra at LHC energies
+DTSTART;VALUE=DATE-TIME:20101203T105000Z
+DTEND;VALUE=DATE-TIME:20101203T110500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320915@indico.cern.ch
+DESCRIPTION:Speakers: Attila Pásztor (MTA KFKI RMKI\, Budapest\, Hungary)
+ \nhttps://indico.cern.ch/event/113717/contributions/1320915/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320915/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strangeness results + first look at Pb-Pb collisions at CMS
+DTSTART;VALUE=DATE-TIME:20101202T101000Z
+DTEND;VALUE=DATE-TIME:20101202T104000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320916@indico.cern.ch
+DESCRIPTION:Speakers: Krisztián Krajczár (MTA KFKI RMKI)\nhttps://indico
+ .cern.ch/event/113717/contributions/1320916/
+LOCATION:ELTE University\, Budapest\, Pázmány P. s. 1/A 7.22 (Kari Taná
+ csterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320916/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rapidity correlations of protons from fragmented fireball
+DTSTART;VALUE=DATE-TIME:20101130T110000Z
+DTEND;VALUE=DATE-TIME:20101130T113000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320918@indico.cern.ch
+DESCRIPTION:Speakers: Martin Schulc (CTU Prague\, FNSPE\, Prague\, Czech R
+ epublic)\nhttps://indico.cern.ch/event/113717/contributions/1320918/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320918/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinetic theory and hydrodynamics: how are they related?
+DTSTART;VALUE=DATE-TIME:20101130T133000Z
+DTEND;VALUE=DATE-TIME:20101130T140000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320919@indico.cern.ch
+DESCRIPTION:Speakers: Péter Ván (MTA KFKI RMKI\, Budapest\, Hungary)\nht
+ tps://indico.cern.ch/event/113717/contributions/1320919/
+LOCATION:MTA KFKI RMKI\, Building III Building 3\, Tanácsterem\, MTA KFKI
+  RMKI
+URL:https://indico.cern.ch/event/113717/contributions/1320919/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trigger studies for the VHMPID detector
+DTSTART;VALUE=DATE-TIME:20101203T102000Z
+DTEND;VALUE=DATE-TIME:20101203T103500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320920@indico.cern.ch
+DESCRIPTION:Speakers: László Boldizsár (MTA KFKI RMKI)\nhttps://indico.
+ cern.ch/event/113717/contributions/1320920/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320920/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greetings from the ELTE University
+DTSTART;VALUE=DATE-TIME:20101202T075500Z
+DTEND;VALUE=DATE-TIME:20101202T080000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320921@indico.cern.ch
+DESCRIPTION:Speakers: Zsolt Frei (Chair\, Department of Atomic Physics)\nh
+ ttps://indico.cern.ch/event/113717/contributions/1320921/
+LOCATION:ELTE University 7.22 (Kari Tanácsterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320921/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poisson Statistics in the High Temperature QCD Dirac Spectrum
+DTSTART;VALUE=DATE-TIME:20101202T110500Z
+DTEND;VALUE=DATE-TIME:20101202T113000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320922@indico.cern.ch
+DESCRIPTION:Speakers: Ferenc Pittler (PTE\, Pécs\, Hungary)\nhttps://indi
+ co.cern.ch/event/113717/contributions/1320922/
+LOCATION:ELTE University\, Budapest\, Pázmány P. s. 1/A 7.22 (Kari Taná
+ csterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320922/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A TPC at NA61 as centrality detector in p+A collisions
+DTSTART;VALUE=DATE-TIME:20101129T104000Z
+DTEND;VALUE=DATE-TIME:20101129T110000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320923@indico.cern.ch
+DESCRIPTION:Speakers: Krisztina Márton (ELTE University\, Budapest\, Hung
+ ary)\nhttps://indico.cern.ch/event/113717/contributions/1320923/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320923/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Investigating dense nuclear matter with electromagnetic and rare h
+ adronic probes (HADES)
+DTSTART;VALUE=DATE-TIME:20101129T100000Z
+DTEND;VALUE=DATE-TIME:20101129T104000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320924@indico.cern.ch
+DESCRIPTION:Speakers: Manuel Lorenz (IKF\, Frankfurt\, Germany)\nhttps://i
+ ndico.cern.ch/event/113717/contributions/1320924/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320924/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elementary particles on your own
+DTSTART;VALUE=DATE-TIME:20101202T133000Z
+DTEND;VALUE=DATE-TIME:20101202T134500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320926@indico.cern.ch
+DESCRIPTION:Speakers: Tamás Csörgõ (Harvard University and MTA KFKI RMK
+ I)\nhttps://indico.cern.ch/event/113717/contributions/1320926/
+LOCATION:ELTE University Ortvay Room
+URL:https://indico.cern.ch/event/113717/contributions/1320926/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Worm Algorithm for a 3-state Potts model with magnetic field and c
+ hemical potential
+DTSTART;VALUE=DATE-TIME:20101202T104000Z
+DTEND;VALUE=DATE-TIME:20101202T110500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320929@indico.cern.ch
+DESCRIPTION:Speakers: Ydalia Delgado Mercado (Karl-Franzens University\, G
+ raz\, Austria)\nhttps://indico.cern.ch/event/113717/contributions/1320929/
+LOCATION:ELTE University\, Budapest\, Pázmány P. s. 1/A 7.22 (Kari Taná
+ csterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320929/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temperature evolution for non-constant equation of state in relati
+ vistic hydro
+DTSTART;VALUE=DATE-TIME:20101130T130000Z
+DTEND;VALUE=DATE-TIME:20101130T133000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320930@indico.cern.ch
+DESCRIPTION:Speakers: Máté Csanád (ELTE University\, Budapest\, Hungary
+ )\nhttps://indico.cern.ch/event/113717/contributions/1320930/
+LOCATION:MTA KFKI RMKI\, Building III Building 3\, Tanácsterem\, MTA KFKI
+  RMKI
+URL:https://indico.cern.ch/event/113717/contributions/1320930/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarks on theory and applications of relativistic dissipative flu
+ id dynamics
+DTSTART;VALUE=DATE-TIME:20101130T140000Z
+DTEND;VALUE=DATE-TIME:20101130T143000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320931@indico.cern.ch
+DESCRIPTION:Speakers: Etele Molnár (MTA KFKI RMKI\, Budapest\, Hungary)\n
+ https://indico.cern.ch/event/113717/contributions/1320931/
+LOCATION:MTA KFKI RMKI\, Building III Building 3\, Tanácsterem\, MTA KFKI
+  RMKI
+URL:https://indico.cern.ch/event/113717/contributions/1320931/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final L3 results on Bose-Einstein correlations in e+e- annihilatio
+ ns at LEP
+DTSTART;VALUE=DATE-TIME:20101130T103000Z
+DTEND;VALUE=DATE-TIME:20101130T110000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320932@indico.cern.ch
+DESCRIPTION:Speakers: Tamás Novák (MTA KFKI RMKI Budapest and KRF Gyöng
+ yös\, Hungary)\nhttps://indico.cern.ch/event/113717/contributions/1320932
+ /
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320932/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A method of eta' rejection in high-energy Au+Au and p+p collisions
+DTSTART;VALUE=DATE-TIME:20101130T100000Z
+DTEND;VALUE=DATE-TIME:20101130T103000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320933@indico.cern.ch
+DESCRIPTION:Speakers: Mónika Kõfaragó (ELTE University\, Budapest\, Hun
+ gary)\nhttps://indico.cern.ch/event/113717/contributions/1320933/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320933/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Observables from an exact solution of  1+3 dimensional relativisti
+ c hydrodynamics
+DTSTART;VALUE=DATE-TIME:20101130T084000Z
+DTEND;VALUE=DATE-TIME:20101130T091000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320934@indico.cern.ch
+DESCRIPTION:Speakers: Márton Vargyas (ELTE University\, Budapest\, Hungar
+ y)\nhttps://indico.cern.ch/event/113717/contributions/1320934/
+LOCATION:MTA KFKI RMKI\, Building III Building 3\, Tanácsterem\, MTA KFKI
+  RMKI
+URL:https://indico.cern.ch/event/113717/contributions/1320934/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Initial temperature and EoS from photon spectra in Au+Au collision
+ s
+DTSTART;VALUE=DATE-TIME:20101130T091000Z
+DTEND;VALUE=DATE-TIME:20101130T094000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320935@indico.cern.ch
+DESCRIPTION:Speakers: Imre Májer (ELTE University\, Budapest\, Hungary)\n
+ https://indico.cern.ch/event/113717/contributions/1320935/
+LOCATION:MTA KFKI RMKI\, Building III Building 3\, Tanácsterem\, MTA KFKI
+  RMKI
+URL:https://indico.cern.ch/event/113717/contributions/1320935/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greetings from the Organizers and Opening the School
+DTSTART;VALUE=DATE-TIME:20101129T080000Z
+DTEND;VALUE=DATE-TIME:20101129T080500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320939@indico.cern.ch
+DESCRIPTION:Speakers: Tamás Csörgõ (MTA KFKI RMKI\, Budapest\, Hungary)
+ \nhttps://indico.cern.ch/event/113717/contributions/1320939/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320939/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Constraining the symmetry energy of the EoS in relativistic heavy 
+ ion reactions
+DTSTART;VALUE=DATE-TIME:20101201T134500Z
+DTEND;VALUE=DATE-TIME:20101201T141500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320942@indico.cern.ch
+DESCRIPTION:Speakers: Attila Krasznahorkay (MTA ATOMKI\, Debrecen\, Hungar
+ y)\nhttps://indico.cern.ch/event/113717/contributions/1320942/
+LOCATION:MTA KFKI RMKI\, Building III 2nd elevated floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320942/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status of ATLAS\, LHCb and LHCf experiments
+DTSTART;VALUE=DATE-TIME:20101201T143500Z
+DTEND;VALUE=DATE-TIME:20101201T152000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320947@indico.cern.ch
+DESCRIPTION:Speakers: Tamás Csörgõ (MTA KFKI RMKI\, Budapest\, Hungary)
+ \nhttps://indico.cern.ch/event/113717/contributions/1320947/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320947/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-similar solutions for classical heat-conduction mechanisms
+DTSTART;VALUE=DATE-TIME:20101129T150000Z
+DTEND;VALUE=DATE-TIME:20101129T153000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320953@indico.cern.ch
+DESCRIPTION:Speakers: Imre Ferenc Barna (MTA KFKI AEKI\, Budapest\, Hungar
+ y)\nhttps://indico.cern.ch/event/113717/contributions/1320953/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320953/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Expectations for specific entropy at LHC
+DTSTART;VALUE=DATE-TIME:20101129T160000Z
+DTEND;VALUE=DATE-TIME:20101129T163000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320960@indico.cern.ch
+DESCRIPTION:Speakers: Béla Lukács (MTA KFKI RMKI\, Budapest\, Hungary)\n
+ https://indico.cern.ch/event/113717/contributions/1320960/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320960/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jets and underlying events in p+p collisions at LHC energies
+DTSTART;VALUE=DATE-TIME:20101201T152000Z
+DTEND;VALUE=DATE-TIME:20101201T154000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320965@indico.cern.ch
+DESCRIPTION:Speakers: András Agócs (MTA KFKI RMKI\, Budapest\, Hungary)\
+ nhttps://indico.cern.ch/event/113717/contributions/1320965/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320965/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analysis of diffractive pion-proton scattering data (webinar)
+DTSTART;VALUE=DATE-TIME:20101201T105500Z
+DTEND;VALUE=DATE-TIME:20101201T112000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320966@indico.cern.ch
+DESCRIPTION:Speakers: Frigyes Nemes (ELTE University)\nhttps://indico.cern
+ .ch/event/113717/contributions/1320966/
+LOCATION:2nd Elevated floor\, Building III\,  KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320966/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State-of-the-art gaseous detectors
+DTSTART;VALUE=DATE-TIME:20101203T084000Z
+DTEND;VALUE=DATE-TIME:20101203T091000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320969@indico.cern.ch
+DESCRIPTION:Speakers: Dezso Varga (Res. Inst. Particle & Nucl. Phys. - Hun
+ garian Academy of Science)\nhttps://indico.cern.ch/event/113717/contributi
+ ons/1320969/
+LOCATION:MTA KFKI RMKI\, Building III MTA KFKI RMKI\, Budapest XII\, Konko
+ ly-Thege 29-33\, Building 3\, floor 2\, Council Room (Tanácsterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320969/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Particles originating from quark and gluon jets
+DTSTART;VALUE=DATE-TIME:20101201T154000Z
+DTEND;VALUE=DATE-TIME:20101201T160000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320970@indico.cern.ch
+DESCRIPTION:Speakers: Pochybova Sona (MTA KFKI RMKI\, Budapest\, Hungary)\
+ nhttps://indico.cern.ch/event/113717/contributions/1320970/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320970/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status of the TOTEM Experiment at LHC
+DTSTART;VALUE=DATE-TIME:20101201T103000Z
+DTEND;VALUE=DATE-TIME:20101201T105500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320975@indico.cern.ch
+DESCRIPTION:Speakers: Janos Sziklai (MTA KFKI RMKI\, Budapest\, Hungary)\n
+ https://indico.cern.ch/event/113717/contributions/1320975/
+LOCATION:2nd Elevated floor\, Building III\,  KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320975/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closing of the School
+DTSTART;VALUE=DATE-TIME:20101203T113000Z
+DTEND;VALUE=DATE-TIME:20101203T113500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320976@indico.cern.ch
+DESCRIPTION:Speakers: CSÖRGÕ\, Tamás (MTA KFKI RMKI\, Budapest\, Hungar
+ y) ()\nhttps://indico.cern.ch/event/113717/contributions/1320976/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320976/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The QCD equation of state with dynamical quarks
+DTSTART;VALUE=DATE-TIME:20101202T153000Z
+DTEND;VALUE=DATE-TIME:20101202T160000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320979@indico.cern.ch
+DESCRIPTION:Speakers: Gergely Endrõdi (ELTE University\, Budapest\, Hunga
+ ry)\nhttps://indico.cern.ch/event/113717/contributions/1320979/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320979/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tsallis distribution in e+e-\, pp and AuAu collisions
+DTSTART;VALUE=DATE-TIME:20101201T090000Z
+DTEND;VALUE=DATE-TIME:20101201T093000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320981@indico.cern.ch
+DESCRIPTION:Speakers: Károly ÜRMÖSSY (MTA KFKI RMKI\, Budapest\, Hungar
+ y)\nhttps://indico.cern.ch/event/113717/contributions/1320981/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320981/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hydrodynamic Predictions for Pb+Pb collisions at 2.76 TeV per nucl
+ eon
+DTSTART;VALUE=DATE-TIME:20101129T163000Z
+DTEND;VALUE=DATE-TIME:20101129T170000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320983@indico.cern.ch
+DESCRIPTION:Speakers: Boris Tomasik (Univerzita Mateja Bela\, Banska Bystr
+ ica\, Slovakia)\nhttps://indico.cern.ch/event/113717/contributions/1320983
+ /
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320983/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greetings by the Director of MTA KFKI RMKI
+DTSTART;VALUE=DATE-TIME:20101129T080500Z
+DTEND;VALUE=DATE-TIME:20101129T081000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320985@indico.cern.ch
+DESCRIPTION:Speakers: Zoltán Szõkefalvi-Nagy ()\nhttps://indico.cern.ch/
+ event/113717/contributions/1320985/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320985/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spectra\, elliptic flow and azimuthally sensitive HBT radii from B
+ uda-Lund model for  200 GeV Au+Au collisions at RHIC
+DTSTART;VALUE=DATE-TIME:20101129T153000Z
+DTEND;VALUE=DATE-TIME:20101129T160000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320988@indico.cern.ch
+DESCRIPTION:Speakers: András Ster (MTA KFKI RMKI\, Budapest\, Hungary)\nh
+ ttps://indico.cern.ch/event/113717/contributions/1320988/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320988/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Reception
+DTSTART;VALUE=DATE-TIME:20101129T180000Z
+DTEND;VALUE=DATE-TIME:20101129T203000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320989@indico.cern.ch
+DESCRIPTION:https://indico.cern.ch/event/113717/contributions/1320989/
+LOCATION:Restaurant of Hotel Normafa Next to the Reception of the Hotel
+URL:https://indico.cern.ch/event/113717/contributions/1320989/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studies of the Tracker Material in the CMS Tracker System
+DTSTART;VALUE=DATE-TIME:20101129T092000Z
+DTEND;VALUE=DATE-TIME:20101129T094000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320990@indico.cern.ch
+DESCRIPTION:Speakers: Anna Júlia Zsigmond (ELTE University\, Budapest\, H
+ ungary)\nhttps://indico.cern.ch/event/113717/contributions/1320990/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320990/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QCD Thermodynamics with Wilson Fermions
+DTSTART;VALUE=DATE-TIME:20101202T160000Z
+DTEND;VALUE=DATE-TIME:20101202T163000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320993@indico.cern.ch
+DESCRIPTION:Speakers: Dániel Nógrádi (ELTE University\, Budapest\, Hung
+ ary)\nhttps://indico.cern.ch/event/113717/contributions/1320993/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320993/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detailing the indirect observation of the in-medium eta' mass drop
+  at RHIC
+DTSTART;VALUE=DATE-TIME:20101202T084500Z
+DTEND;VALUE=DATE-TIME:20101202T091500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320994@indico.cern.ch
+DESCRIPTION:Speakers: Róbert Vértesi (MTA KFKI RMKI\, Budapest\, Hungary
+ )\nhttps://indico.cern.ch/event/113717/contributions/1320994/
+LOCATION:ELTE University 7.22 (Kari Tanácsterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320994/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pi0 production in collisions at sqrt(s(NN)) = 39 GeV
+DTSTART;VALUE=DATE-TIME:20101130T152000Z
+DTEND;VALUE=DATE-TIME:20101130T155000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320995@indico.cern.ch
+DESCRIPTION:Speakers: Norbert Novitzky (University of Jyvaskyla\, Jyvaskyl
+ a\, Finland)\nhttps://indico.cern.ch/event/113717/contributions/1320995/
+LOCATION:MTA KFKI RMKI\, Building III Building 3\, Tanácsterem\, MTA KFKI
+  RMKI
+URL:https://indico.cern.ch/event/113717/contributions/1320995/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent results on the QCD Phase Diagram
+DTSTART;VALUE=DATE-TIME:20101202T130000Z
+DTEND;VALUE=DATE-TIME:20101202T133000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320980@indico.cern.ch
+DESCRIPTION:Speakers: Sándor Katz (ELTE University)\nThis talk is one of 
+ the highlights of the School.\n\nhttps://indico.cern.ch/event/113717/contr
+ ibutions/1320980/
+LOCATION:ELTE University Ortvay Room
+URL:https://indico.cern.ch/event/113717/contributions/1320980/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Non-Extensive Black Hole Thermodynamics: Estimate for Power-Law Pa
+ rticle Spectra
+DTSTART;VALUE=DATE-TIME:20101201T080000Z
+DTEND;VALUE=DATE-TIME:20101201T084500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320987@indico.cern.ch
+DESCRIPTION:Speakers: Tamás S. Biró (MTA KFKI RMKI\, Budapest\, Hungary)
+ \nThis talk is one of the highlights of the School.\n\nhttps://indico.cern
+ .ch/event/113717/contributions/1320987/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320987/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Current Status and Prospects of Hadron Physics at J-PARC
+DTSTART;VALUE=DATE-TIME:20101203T080000Z
+DTEND;VALUE=DATE-TIME:20101203T084000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320978@indico.cern.ch
+DESCRIPTION:Speakers: Naohito SAITO (KEK\, Kyoto\, Japan)\nThis talk is on
+ e of the highlights of the School.\n\nhttps://indico.cern.ch/event/113717/
+ contributions/1320978/
+LOCATION:MTA KFKI RMKI\, Building III MTA KFKI RMKI\, Budapest XII\, Konko
+ ly-Thege 29-33\, Building 3\, floor 2\, Council Room (Tanácsterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320978/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Extremely dilute\, but strongly correlated: Experiments with ultra
+ cold fermions
+DTSTART;VALUE=DATE-TIME:20101129T130000Z
+DTEND;VALUE=DATE-TIME:20101129T135000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320910@indico.cern.ch
+DESCRIPTION:Speakers: Selim Jochim (MPI for Nuclear Physics\, Heidelberg\,
+  Germany)\nThis highlighted talk is announced also as a KFKI RMKI Colloqiu
+ m.\n\nhttps://indico.cern.ch/event/113717/contributions/1320910/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320910/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Results from the RHIC Beam Energy Scan Program
+DTSTART;VALUE=DATE-TIME:20101202T140000Z
+DTEND;VALUE=DATE-TIME:20101202T145000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320927@indico.cern.ch
+DESCRIPTION:Speakers: Jefferey Mitchell (BNL\, Upton\, USA)\nThis highligh
+ ted talk is also announced as an Ortvay Colloqium at the ELTE University.\
+ n\nhttps://indico.cern.ch/event/113717/contributions/1320927/
+LOCATION:ELTE University Ortvay Room
+URL:https://indico.cern.ch/event/113717/contributions/1320927/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Properties of the perfectly flowing\, strongly coupled QGP discove
+ red in Au+Au collisions at RHIC
+DTSTART;VALUE=DATE-TIME:20101129T081000Z
+DTEND;VALUE=DATE-TIME:20101129T084500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320974@indico.cern.ch
+DESCRIPTION:Speakers: Tamás Csörgõ (MTA KFKI RMKI\, Budapest\, Hungary)
+ \nThis talk is one of the highlights of the School.\n\nhttps://indico.cern
+ .ch/event/113717/contributions/1320974/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320974/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gibbs paradox and the finite lifetime hadron resonance gas
+DTSTART;VALUE=DATE-TIME:20101130T145000Z
+DTEND;VALUE=DATE-TIME:20101130T152000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320968@indico.cern.ch
+DESCRIPTION:Speakers: Antal Jakovác (BME\, Budapest\, Hungary)\nThis is o
+ ne of the highlighted talks of the School.\n\nhttps://indico.cern.ch/event
+ /113717/contributions/1320968/
+LOCATION:MTA KFKI RMKI\, Building III Building 3\, Tanácsterem\, MTA KFKI
+  RMKI
+URL:https://indico.cern.ch/event/113717/contributions/1320968/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two-particle correlation results from the CMS experiment (webinar)
+DTSTART;VALUE=DATE-TIME:20101129T084500Z
+DTEND;VALUE=DATE-TIME:20101129T092000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320917@indico.cern.ch
+DESCRIPTION:Speakers: Gábor Veres (CERN and ELTE University)\nThis talk i
+ s one of the highlights of the School.\n\nhttps://indico.cern.ch/event/113
+ 717/contributions/1320917/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320917/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overview of QCD Results from CMS
+DTSTART;VALUE=DATE-TIME:20101202T091500Z
+DTEND;VALUE=DATE-TIME:20101202T095000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320991@indico.cern.ch
+DESCRIPTION:Speakers: Ferenc SIKLÉR (MTA KFKI RMKI\, Budapest\, Hungary)\
+ nThis talk is one of the highlights of the School.\n\nhttps://indico.cern.
+ ch/event/113717/contributions/1320991/
+LOCATION:ELTE University 7.22 (Kari Tanácsterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320991/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Latest Results from the Heavy Ion Run in ALICE
+DTSTART;VALUE=DATE-TIME:20101203T110500Z
+DTEND;VALUE=DATE-TIME:20101203T113000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320977@indico.cern.ch
+DESCRIPTION:Speakers: Péter Lévai (MTA KFKI RMKI\, Budapest\, Hungary)\n
+ This talk is one of the highlights of the School.\n\nhttps://indico.cern.c
+ h/event/113717/contributions/1320977/
+LOCATION:MTA KFKI RMKI\, Building III 2nd floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320977/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Propects for heavy-ion physics with the CBM experiment
+DTSTART;VALUE=DATE-TIME:20101201T130000Z
+DTEND;VALUE=DATE-TIME:20101201T134500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320949@indico.cern.ch
+DESCRIPTION:Speakers: Volker Friese (GSI and FAIR\, Darmstadt\, Germany)\n
+ This seminar is one of the highlights of the School.\n\nhttps://indico.cer
+ n.ch/event/113717/contributions/1320949/
+LOCATION:MTA KFKI RMKI\, Building III 2nd elevated floor\, Tanácsterem
+URL:https://indico.cern.ch/event/113717/contributions/1320949/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chiral Transition and Axial Anomay at Finite Temperature and/or De
+ nsity
+DTSTART;VALUE=DATE-TIME:20101202T080000Z
+DTEND;VALUE=DATE-TIME:20101202T084500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320951@indico.cern.ch
+DESCRIPTION:Speakers: Teiji Kunihiro (University of Kyoto\, Kyoto\, Japan)
+ \nThis talk is one of the highlights of the School.\n\nhttps://indico.cern
+ .ch/event/113717/contributions/1320951/
+LOCATION:ELTE University 7.22 (Kari Tanácsterem)
+URL:https://indico.cern.ch/event/113717/contributions/1320951/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Three-dimensional pion and kaon source imaging from 200 GeV Au+Au 
+ collisions from the STAR experiment
+DTSTART;VALUE=DATE-TIME:20101130T080000Z
+DTEND;VALUE=DATE-TIME:20101130T084000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143816Z
+UID:indico-contribution-113717-1320936@indico.cern.ch
+DESCRIPTION:Speakers: Paul Chung (NPI ASCR\, Prague\, Czech Republic)\nThi
+ s is one of the highlighted talks of the School.\n\nhttps://indico.cern.ch
+ /event/113717/contributions/1320936/
+LOCATION:MTA KFKI RMKI\, Building III Building 3\, Tanácsterem\, MTA KFKI
+  RMKI
+URL:https://indico.cern.ch/event/113717/contributions/1320936/
+END:VEVENT
+END:VCALENDAR

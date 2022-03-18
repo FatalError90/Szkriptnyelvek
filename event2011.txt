@@ -1,0 +1,607 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:On the phase diagram in T-mu-Nc
+DTSTART;VALUE=DATE-TIME:20111130T080500Z
+DTEND;VALUE=DATE-TIME:20111130T083500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415029@indico.cern.ch
+DESCRIPTION:Speakers: Stefano Lottini (Institut fur Theoretische Physik)\
+ nhttps://indico.cern.ch/event/163821/contributions/1415029/
+LOCATION:Eotvos University 0.100A
+URL:https://indico.cern.ch/event/163821/contributions/1415029/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A relativistic hydro model compared to LHC data
+DTSTART;VALUE=DATE-TIME:20111130T083500Z
+DTEND;VALUE=DATE-TIME:20111130T085500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415030@indico.cern.ch
+DESCRIPTION:Speakers: Sandor Lokos (Eotvos University)\nhttps://indic
+ o.cern.ch/event/163821/contributions/1415030/
+LOCATION:Eotvos University 0.100A
+URL:https://indico.cern.ch/event/163821/contributions/1415030/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closing of the School
+DTSTART;VALUE=DATE-TIME:20111202T115500Z
+DTEND;VALUE=DATE-TIME:20111202T120000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415031@indico.cern.ch
+DESCRIPTION:Speakers: Mate Csanad (Eotvos University)\nhttps://indico
+ .cern.ch/event/163821/contributions/1415031/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415031/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent development of hydrodynamic simulations in relativistic hea
+ vy ion collisions
+DTSTART;VALUE=DATE-TIME:20111130T130000Z
+DTEND;VALUE=DATE-TIME:20111130T140000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415032@indico.cern.ch
+DESCRIPTION:Speakers: Tetsufumi Hirano (Sophia University / The University
+  of Tokyo)\nhttps://indico.cern.ch/event/163821/contributions/1415032/
+LOCATION:Eotvos University 2.54
+URL:https://indico.cern.ch/event/163821/contributions/1415032/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to TPCD's
+DTSTART;VALUE=DATE-TIME:20111129T153000Z
+DTEND;VALUE=DATE-TIME:20111129T155000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415033@indico.cern.ch
+DESCRIPTION:Speakers: Levente Kovacs (Eotvos University)\nhttps://indico
+ .cern.ch/event/163821/contributions/1415033/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415033/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPCD\, a New Gaseous Photon Detector
+DTSTART;VALUE=DATE-TIME:20111129T155000Z
+DTEND;VALUE=DATE-TIME:20111129T161500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415034@indico.cern.ch
+DESCRIPTION:Speakers: Miklos Matyas (Eotvos University)\nhttps://indi
+ co.cern.ch/event/163821/contributions/1415034/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415034/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muon Tomography Experiments in Natural Caves
+DTSTART;VALUE=DATE-TIME:20111129T161500Z
+DTEND;VALUE=DATE-TIME:20111129T164000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415035@indico.cern.ch
+DESCRIPTION:Speakers: Laszlo Olah (CERN)\nhttps://indico.cern.ch/event/163
+ 821/contributions/1415035/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415035/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Acquisition System for Portable Particle Detector
+DTSTART;VALUE=DATE-TIME:20111129T164000Z
+DTEND;VALUE=DATE-TIME:20111129T170500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415036@indico.cern.ch
+DESCRIPTION:Speakers: Gergely Hunor Melegh (BUTE)\nhttps://indico.cern.ch/
+ event/163821/contributions/1415036/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415036/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome at the Eotvos University
+DTSTART;VALUE=DATE-TIME:20111130T080000Z
+DTEND;VALUE=DATE-TIME:20111130T080500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415037@indico.cern.ch
+DESCRIPTION:Speakers: Zsolt Frei (Eotvos University)\nhttps://indico.cer
+ n.ch/event/163821/contributions/1415037/
+LOCATION:Eotvos University 0.100A
+URL:https://indico.cern.ch/event/163821/contributions/1415037/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Experimental study of Quark and Gluon jets in pp collisions at LHC
+  energies
+DTSTART;VALUE=DATE-TIME:20111129T134500Z
+DTEND;VALUE=DATE-TIME:20111129T141500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415038@indico.cern.ch
+DESCRIPTION:Speakers: Sona Pochybova (MTA KFKI RMKI)\nhttps://indico.cern.
+ ch/event/163821/contributions/1415038/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415038/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaseous Beam Position Detectors\, with Low Cost and Low Material B
+ udget
+DTSTART;VALUE=DATE-TIME:20111129T144500Z
+DTEND;VALUE=DATE-TIME:20111129T151500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415039@indico.cern.ch
+DESCRIPTION:Speakers: Gyula Bencedi (MTA KFKI RMKI)\nhttps://indico.cern.c
+ h/event/163821/contributions/1415039/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415039/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nonlocal effective models
+DTSTART;VALUE=DATE-TIME:20111202T103500Z
+DTEND;VALUE=DATE-TIME:20111202T110500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415040@indico.cern.ch
+DESCRIPTION:Speakers: Antal Jakovac (BUTE)\nhttps://indico.cern.ch/event/1
+ 63821/contributions/1415040/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415040/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resummations in the Bloch-Nordsieck model
+DTSTART;VALUE=DATE-TIME:20111202T110500Z
+DTEND;VALUE=DATE-TIME:20111202T113000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415041@indico.cern.ch
+DESCRIPTION:Speakers: Peter Mati (BUTE)\nhttps://indico.cern.ch/event/163
+ 821/contributions/1415041/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415041/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Correlations in double parton distributions at small x
+DTSTART;VALUE=DATE-TIME:20111201T163500Z
+DTEND;VALUE=DATE-TIME:20111201T170500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415042@indico.cern.ch
+DESCRIPTION:Speakers: Andras Ster (MTA KFKI RMKI)\nhttps://indico.cern.ch/
+ event/163821/contributions/1415042/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415042/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exotic Hadrons in Heavy Ion Collisions
+DTSTART;VALUE=DATE-TIME:20111202T095000Z
+DTEND;VALUE=DATE-TIME:20111202T103500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415043@indico.cern.ch
+DESCRIPTION:Speakers: Sungtae Cho (Yonsei University)\nhttps://indico.cern
+ .ch/event/163821/contributions/1415043/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415043/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status of the TOTEM experiment
+DTSTART;VALUE=DATE-TIME:20111201T130000Z
+DTEND;VALUE=DATE-TIME:20111201T134500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415044@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Csorgo (MTA KFKI RMKI)\nhttps://indico.cern
+ .ch/event/163821/contributions/1415044/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415044/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detailed analysis of high energy proton-proton dsigma/dt including
+  TOTEM results
+DTSTART;VALUE=DATE-TIME:20111201T134500Z
+DTEND;VALUE=DATE-TIME:20111201T141000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415045@indico.cern.ch
+DESCRIPTION:Speakers: Frigyes Nemes (MTA KFKI RMKI)\nhttps://indico.cern.c
+ h/event/163821/contributions/1415045/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415045/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Different initial states and the collective flow
+DTSTART;VALUE=DATE-TIME:20111201T152000Z
+DTEND;VALUE=DATE-TIME:20111201T160500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415046@indico.cern.ch
+DESCRIPTION:Speakers: Laszlo Csernai (U. Bergen and MTA KFKI RMKI)\nhttps:
+ //indico.cern.ch/event/163821/contributions/1415046/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415046/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 2011 Nobel-prize in physics and its Hungarian connections
+DTSTART;VALUE=DATE-TIME:20111201T141000Z
+DTEND;VALUE=DATE-TIME:20111201T150000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415047@indico.cern.ch
+DESCRIPTION:Speakers: Istvan Horvath (ZMNE)\nhttps://indico.cern.ch/even
+ t/163821/contributions/1415047/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415047/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simulation of Pair Production in Extreme Fields
+DTSTART;VALUE=DATE-TIME:20111201T110000Z
+DTEND;VALUE=DATE-TIME:20111201T112000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415048@indico.cern.ch
+DESCRIPTION:Speakers: Daniel Berenyi (MTA KFKI RMKI)\nhttps://indico.cern.
+ ch/event/163821/contributions/1415048/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415048/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-similar solution of the three dimensional Navier-Stokes Equat
+ ion
+DTSTART;VALUE=DATE-TIME:20111201T160500Z
+DTEND;VALUE=DATE-TIME:20111201T163500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415049@indico.cern.ch
+DESCRIPTION:Speakers: Imre Ferenc Barna (MTA KFKI AEKI)\nhttps://indico.ce
+ rn.ch/event/163821/contributions/1415049/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415049/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome at the RMKI
+DTSTART;VALUE=DATE-TIME:20111128T074500Z
+DTEND;VALUE=DATE-TIME:20111128T075000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415050@indico.cern.ch
+DESCRIPTION:Speakers: Zoltan Szokefalvi-Nagy (MTA KFKI RMKI)\nhttps://in
+ dico.cern.ch/event/163821/contributions/1415050/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415050/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening of the School
+DTSTART;VALUE=DATE-TIME:20111128T074000Z
+DTEND;VALUE=DATE-TIME:20111128T074500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415051@indico.cern.ch
+DESCRIPTION:Speakers: Mate Csanad (Eotvos University)\nhttps://indico
+ .cern.ch/event/163821/contributions/1415051/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415051/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overview of the Heavy Ion results from the CMS Experiment
+DTSTART;VALUE=DATE-TIME:20111128T083500Z
+DTEND;VALUE=DATE-TIME:20111128T091000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415052@indico.cern.ch
+DESCRIPTION:Speakers: Anna Zsigmond (MTA KFKI RMKI)\nhttps://indico.cern.c
+ h/event/163821/contributions/1415052/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415052/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Review of QCD results from CMS
+DTSTART;VALUE=DATE-TIME:20111128T075000Z
+DTEND;VALUE=DATE-TIME:20111128T083500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415053@indico.cern.ch
+DESCRIPTION:Speakers: Ferenc Sikler (MTA KFKI RMKI)\nhttps://indico.cern.c
+ h/event/163821/contributions/1415053/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415053/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEtaDPhi angular correlations in pp collisions at LHC/ALICE
+DTSTART;VALUE=DATE-TIME:20111128T095500Z
+DTEND;VALUE=DATE-TIME:20111128T102000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415054@indico.cern.ch
+DESCRIPTION:Speakers: Malgorzata Anna Janik (Warsaw University of Technolo
+ gy (PL))\nhttps://indico.cern.ch/event/163821/contributions/1415054/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415054/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Femtoscopy of pp collisions at the LHC with the ALICE experiment
+DTSTART;VALUE=DATE-TIME:20111128T093000Z
+DTEND;VALUE=DATE-TIME:20111128T095500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415055@indico.cern.ch
+DESCRIPTION:Speakers: Lukasz Kamil Graczykowski (Warsaw University of Tech
+ nology (PL))\nhttps://indico.cern.ch/event/163821/contributions/1415055/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415055/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent femtoscopy results from Beam Energy Scan program at STAR
+DTSTART;VALUE=DATE-TIME:20111128T104500Z
+DTEND;VALUE=DATE-TIME:20111128T111000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415056@indico.cern.ch
+DESCRIPTION:Speakers: Piotr Krystian Ostrowski (Warsaw University of Techn
+ ology)\nhttps://indico.cern.ch/event/163821/contributions/1415056/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415056/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:J/Psi polarization in p+p collisions at sqrt{s}=200GeV at STAR
+DTSTART;VALUE=DATE-TIME:20111128T102000Z
+DTEND;VALUE=DATE-TIME:20111128T104500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415057@indico.cern.ch
+DESCRIPTION:Speakers: Barbara Trzeciak (Warsaw University of Technology)\n
+ https://indico.cern.ch/event/163821/contributions/1415057/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415057/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Non-extensive Statistics in Parton Fragmentation
+DTSTART;VALUE=DATE-TIME:20111128T133000Z
+DTEND;VALUE=DATE-TIME:20111128T140000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415058@indico.cern.ch
+DESCRIPTION:Speakers: Karoly urmossy (MTA KFKI RMKI)\nhttps://indico.ce
+ rn.ch/event/163821/contributions/1415058/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415058/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tsallis-Pareto-like fragmentation functions based on e^+ e^- annih
+ ilations
+DTSTART;VALUE=DATE-TIME:20111128T130000Z
+DTEND;VALUE=DATE-TIME:20111128T133000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415059@indico.cern.ch
+DESCRIPTION:Speakers: Gergely Kalmar (MTA KFKI RMKI)\nhttps://indico.cern
+ .ch/event/163821/contributions/1415059/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415059/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Low Momentum Particle Detector at NA61/SHINE Experiment
+DTSTART;VALUE=DATE-TIME:20111128T162000Z
+DTEND;VALUE=DATE-TIME:20111128T165500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415060@indico.cern.ch
+DESCRIPTION:Speakers: Krisztina Marton (Eotvos University)\nhttps://indi
+ co.cern.ch/event/163821/contributions/1415060/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415060/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A method of eta' rejection in high-energy Au+Au and p+p collisions
+DTSTART;VALUE=DATE-TIME:20111201T095000Z
+DTEND;VALUE=DATE-TIME:20111201T102000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415061@indico.cern.ch
+DESCRIPTION:Speakers: Monika Kofarago (Eotvos University)\nhttps://in
+ dico.cern.ch/event/163821/contributions/1415061/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415061/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent lattice results on the QCD phase diagram
+DTSTART;VALUE=DATE-TIME:20111129T080000Z
+DTEND;VALUE=DATE-TIME:20111129T084500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415062@indico.cern.ch
+DESCRIPTION:Speakers: Sandor Katz (Eotvos University)\nhttps://indico.c
+ ern.ch/event/163821/contributions/1415062/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415062/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status of the LHCb\, LHCf\, MoEDAL experiments
+DTSTART;VALUE=DATE-TIME:20111128T145000Z
+DTEND;VALUE=DATE-TIME:20111128T153500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415063@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Csorgo (MTA KFKI RMKI)\nhttps://indico.cern
+ .ch/event/163821/contributions/1415063/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415063/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entropy Production and Particle Yields in Heavy Ion Collisions at 
+ LHC
+DTSTART;VALUE=DATE-TIME:20111128T140000Z
+DTEND;VALUE=DATE-TIME:20111128T143000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415064@indico.cern.ch
+DESCRIPTION:Speakers: Bela Lukacs (MTA KFKI RMKI)\nhttps://indico.cern.c
+ h/event/163821/contributions/1415064/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415064/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status of the ATLAS experiment
+DTSTART;VALUE=DATE-TIME:20111201T102000Z
+DTEND;VALUE=DATE-TIME:20111201T110000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415065@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Csorgo (MTA KFKI RMKI)\nhttps://indico.cern
+ .ch/event/163821/contributions/1415065/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415065/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status and plans of the ion program of NA61 at the CERN SPS
+DTSTART;VALUE=DATE-TIME:20111128T153500Z
+DTEND;VALUE=DATE-TIME:20111128T162000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415067@indico.cern.ch
+DESCRIPTION:Speakers: Zoltan Fodor (MTA KFKI RMKI)\nhttps://indico.cern.ch
+ /event/163821/contributions/1415067/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415067/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Medium effects are all hadrons alike?
+DTSTART;VALUE=DATE-TIME:20111129T084500Z
+DTEND;VALUE=DATE-TIME:20111129T093000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415069@indico.cern.ch
+DESCRIPTION:Speakers: Su Houng Lee (Yonsei University)\nhttps://indico.cer
+ n.ch/event/163821/contributions/1415069/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415069/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High pT Tigger Detector Upgrade for ALICE
+DTSTART;VALUE=DATE-TIME:20111129T141500Z
+DTEND;VALUE=DATE-TIME:20111129T144500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415071@indico.cern.ch
+DESCRIPTION:Speakers: Gergo Hamar (MTA KFKI RMKI)\nhttps://indico.cern.ch/
+ event/163821/contributions/1415071/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415071/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status of the PHENIX experiment at RHIC
+DTSTART;VALUE=DATE-TIME:20111129T095000Z
+DTEND;VALUE=DATE-TIME:20111129T103000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415073@indico.cern.ch
+DESCRIPTION:Speakers: Robert Vertesi (MTA KFKI RMKI)\nhttps://indico.cern.
+ ch/event/163821/contributions/1415073/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415073/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In-medium reduction of the ?’ mass in ?200 GeV Au+Au collisio
+ ns
+DTSTART;VALUE=DATE-TIME:20111129T103000Z
+DTEND;VALUE=DATE-TIME:20111129T110000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415076@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Csorgo (MTA KFKI RMKI)\nhttps://indico.cern
+ .ch/event/163821/contributions/1415076/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415076/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status of the ALICE Experiment and recent theoretical results
+DTSTART;VALUE=DATE-TIME:20111129T130000Z
+DTEND;VALUE=DATE-TIME:20111129T134500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415078@indico.cern.ch
+DESCRIPTION:Speakers: Peter Levai (MTA KFKI RMKI)\nhttps://indico.cern.ch/
+ event/163821/contributions/1415078/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415078/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mass reduction of the eta prime meson in hot QCD matter
+DTSTART;VALUE=DATE-TIME:20111129T110000Z
+DTEND;VALUE=DATE-TIME:20111129T112500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415079@indico.cern.ch
+DESCRIPTION:Speakers: Marton Vargyas (Eotvos University)\nhttps://indico
+ .cern.ch/event/163821/contributions/1415079/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415079/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Complete second order fluid dynamics from the Boltzmann equation
+DTSTART;VALUE=DATE-TIME:20111130T093500Z
+DTEND;VALUE=DATE-TIME:20111130T100500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415080@indico.cern.ch
+DESCRIPTION:Speakers: Etele Molnar (MTA KFKI RMKI)\nhttps://indico.cern.c
+ h/event/163821/contributions/1415080/
+LOCATION:Eotvos University 0.100A
+URL:https://indico.cern.ch/event/163821/contributions/1415080/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time evolution of QGP via photon observables
+DTSTART;VALUE=DATE-TIME:20111130T085500Z
+DTEND;VALUE=DATE-TIME:20111130T092000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415081@indico.cern.ch
+DESCRIPTION:Speakers: Imre Majer (Eotvos University)\nhttps://indico.ce
+ rn.ch/event/163821/contributions/1415081/
+LOCATION:Eotvos University 0.100A
+URL:https://indico.cern.ch/event/163821/contributions/1415081/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why do thermal models work? Are there alternatives?
+DTSTART;VALUE=DATE-TIME:20111202T084500Z
+DTEND;VALUE=DATE-TIME:20111202T093000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415082@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Biro (MTA KFKI RMKI)\nhttps://indico.cern.ch/e
+ vent/163821/contributions/1415082/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415082/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Measurements of meson mass at J-PARC
+DTSTART;VALUE=DATE-TIME:20111201T080000Z
+DTEND;VALUE=DATE-TIME:20111201T084500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415083@indico.cern.ch
+DESCRIPTION:Speakers: Kyoichiro Ozawa (Graduate School of  Science-Univers
+ ity of Tokyo)\nhttps://indico.cern.ch/event/163821/contributions/1415083/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415083/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playing with particles: Quark Matter\, Cosmic Shower\, Let's Detec
+ t! (an interactive session)
+DTSTART;VALUE=DATE-TIME:20111130T140000Z
+DTEND;VALUE=DATE-TIME:20111130T143000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415084@indico.cern.ch
+DESCRIPTION:Speakers: Judit Csorgo (Eotvos University)\nhttps://indico
+ .cern.ch/event/163821/contributions/1415084/
+LOCATION:Eotvos University 2.54
+URL:https://indico.cern.ch/event/163821/contributions/1415084/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction of the Academia Europaea
+DTSTART;VALUE=DATE-TIME:20111202T113000Z
+DTEND;VALUE=DATE-TIME:20111202T115500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415085@indico.cern.ch
+DESCRIPTION:Speakers: Laszlo Csernai (U. Bergen and MTA KFKI RMKI)\nhttps:
+ //indico.cern.ch/event/163821/contributions/1415085/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415085/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent developments in relativistic hydrodynamics
+DTSTART;VALUE=DATE-TIME:20111130T103500Z
+DTEND;VALUE=DATE-TIME:20111130T110500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415086@indico.cern.ch
+DESCRIPTION:Speakers: Marton Nagy (Eotvos University)\nhttps://indico.ce
+ rn.ch/event/163821/contributions/1415086/
+LOCATION:Eotvos University 0.100A
+URL:https://indico.cern.ch/event/163821/contributions/1415086/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mesons in a chirally symmetric model
+DTSTART;VALUE=DATE-TIME:20111201T084500Z
+DTEND;VALUE=DATE-TIME:20111201T093000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415087@indico.cern.ch
+DESCRIPTION:Speakers: Gyorgy Wolf (MTA KFKI RMKI)\nhttps://indico.cern.ch
+ /event/163821/contributions/1415087/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415087/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Space-time structure of the hadronic fireball
+DTSTART;VALUE=DATE-TIME:20111130T100500Z
+DTEND;VALUE=DATE-TIME:20111130T103500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415088@indico.cern.ch
+DESCRIPTION:Speakers: Dmitry Anchishkin (BITP)\nhttps://indico.cern.ch/eve
+ nt/163821/contributions/1415088/
+LOCATION:Eotvos University 0.100A
+URL:https://indico.cern.ch/event/163821/contributions/1415088/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The thermal model at the LHC
+DTSTART;VALUE=DATE-TIME:20111202T080000Z
+DTEND;VALUE=DATE-TIME:20111202T084500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T143728Z
+UID:indico-contribution-163821-1415089@indico.cern.ch
+DESCRIPTION:Speakers: Jean Cleymans (University of Cape Town)\nhttps://ind
+ ico.cern.ch/event/163821/contributions/1415089/
+LOCATION:MTA KFKI RMKI Building 3\, Council room (Tanacsterem)
+URL:https://indico.cern.ch/event/163821/contributions/1415089/
+END:VEVENT
+END:VCALENDAR

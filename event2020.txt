@@ -1,0 +1,1310 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:Discussion + awards
+DTSTART;VALUE=DATE-TIME:20201211T181500Z
+DTEND;VALUE=DATE-TIME:20201211T190000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136078  indico.cern.ch
+DESCRIPTION:https://indico.cern.ch/event/980953/contributions/4136078/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136078/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Relativistic Hydrodynamics - Then and Now
+DTSTART;VALUE=DATE-TIME:20201211T171500Z
+DTEND;VALUE=DATE-TIME:20201211T180000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136076  indico.cern.ch
+DESCRIPTION:Speakers: William Zajc (Columbia University)\nhttps://indico.c
+ ern.ch/event/980953/contributions/4136076/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136076/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarks and Hadrons in the Primordial Universe
+DTSTART;VALUE=DATE-TIME:20201211T163000Z
+DTEND;VALUE=DATE-TIME:20201211T171500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136075  indico.cern.ch
+DESCRIPTION:Speakers: Johann Rafelski (University of Arizona (US))\, Johan
+ n Rafelski (University of Arizona)\nhttps://indico.cern.ch/event/980953/co
+ ntributions/4136075/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136075/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Investigating the structure of compact stars with degenerate Fermi
+  gas having many degree of freedom
+DTSTART;VALUE=DATE-TIME:20201211T154500Z
+DTEND;VALUE=DATE-TIME:20201211T160000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136074  indico.cern.ch
+DESCRIPTION:Speakers: Balazs Asztalos ()\nhttps://indico.cern.ch/event/98
+ 0953/contributions/4136074/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136074/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estimating nuclear matter parameters from compact star observables
+DTSTART;VALUE=DATE-TIME:20201211T153000Z
+DTEND;VALUE=DATE-TIME:20201211T154500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136072  indico.cern.ch
+DESCRIPTION:Speakers: Gergely Barnafoldi (Hungarian Academy of Sciences (H
+ U))\, Gergely Barnafoldi (Hungarian Academy of Sciences (HU))\, Gergely Ga
+ bor Barnafoldi (Wigner RCP Hungarian Academy of Sciences (HU))\nhttps://in
+ dico.cern.ch/event/980953/contributions/4136072/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136072/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dense nuclear matter in the cores of neutron stars
+DTSTART;VALUE=DATE-TIME:20201211T150000Z
+DTEND;VALUE=DATE-TIME:20201211T153000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136071  indico.cern.ch
+DESCRIPTION:Speakers: David Edwin Alvarez Castillo (JINR)\, David Edwin Al
+ varez Castillo ()\nhttps://indico.cern.ch/event/980953/contributions/41360
+ 71/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136071/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent measurments of hadronic resonances in ALICE at the LHC
+DTSTART;VALUE=DATE-TIME:20201211T143000Z
+DTEND;VALUE=DATE-TIME:20201211T150000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136070  indico.cern.ch
+DESCRIPTION:Speakers: Angela Badala (Universita e INFN\, Catania (IT))\, A
+ ngela Badala (Univ. + INFN)\nhttps://indico.cern.ch/event/980953/contribut
+ ions/4136070/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136070/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chromo-electric screening and bottomonium properties from lattice 
+ QCD
+DTSTART;VALUE=DATE-TIME:20201211T140000Z
+DTEND;VALUE=DATE-TIME:20201211T143000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136069  indico.cern.ch
+DESCRIPTION:Speakers: Peter Petreczky (BNL)\, Peter Petreczky (BNL)\nhttps
+ ://indico.cern.ch/event/980953/contributions/4136069/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136069/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lattice determination of the heavy quark diffusion constant
+DTSTART;VALUE=DATE-TIME:20201211T113000Z
+DTEND;VALUE=DATE-TIME:20201211T120000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136068  indico.cern.ch
+DESCRIPTION:Speakers: Viljami Leino (Technical University of Munich (TUM))
+ \, Viljami Leino (University of Helsinki)\, Viljami Leino (TuM)\nhttps://i
+ ndico.cern.ch/event/980953/contributions/4136068/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136068/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Novel extrapolation scheme for lattice QCD equation of state
+DTSTART;VALUE=DATE-TIME:20201211T110000Z
+DTEND;VALUE=DATE-TIME:20201211T113000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136064  indico.cern.ch
+DESCRIPTION:Speakers: Paolo Parotto (University of Houston)\, Paolo Parott
+ o ()\, Paolo Parotto (University of Wuppertal)\nhttps://indico.cern.ch/eve
+ nt/980953/contributions/4136064/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136064/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jet transport coefficient $hat{q}$ in (2+1)-flavor lattice QCD
+DTSTART;VALUE=DATE-TIME:20201211T103000Z
+DTEND;VALUE=DATE-TIME:20201211T110000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136063  indico.cern.ch
+DESCRIPTION:Speakers: Johannes Heinrich Weber (Munich University of Techno
+ logy (TUM))\, Johannes Heinrich Weber (Michigan State University)\nhttps:/
+ /indico.cern.ch/event/980953/contributions/4136063/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136063/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QCD Crossover at Finite Chemical Potential from Lattice Simulation
+ s
+DTSTART;VALUE=DATE-TIME:20201211T100000Z
+DTEND;VALUE=DATE-TIME:20201211T103000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136062  indico.cern.ch
+DESCRIPTION:Speakers: Jana N. Guenther (University of Wuppertal)\nhttps://
+ indico.cern.ch/event/980953/contributions/4136062/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136062/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gintropy: entropy formulas based on the Gini index
+DTSTART;VALUE=DATE-TIME:20201211T083500Z
+DTEND;VALUE=DATE-TIME:20201211T090500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136061  indico.cern.ch
+DESCRIPTION:Speakers: Tamas Biro (KFKI RMKI)\, Tamas Sandor Biro (MTA Wign
+ er RCP)\nhttps://indico.cern.ch/event/980953/contributions/4136061/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136061/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radiation reaction: charge distributions or point charges?
+DTSTART;VALUE=DATE-TIME:20201211T080500Z
+DTEND;VALUE=DATE-TIME:20201211T083500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136058  indico.cern.ch
+DESCRIPTION:Speakers: Peter Van ()\, Peter Van (Wigner RCP)\nhttps://ind
+ ico.cern.ch/event/980953/contributions/4136058/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136058/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hydrodynamical final state parametrizations and baryon polarizatio
+ n
+DTSTART;VALUE=DATE-TIME:20201211T074500Z
+DTEND;VALUE=DATE-TIME:20201211T080500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136054  indico.cern.ch
+DESCRIPTION:Speakers: Marton Nagy (MTA KFKI RMKI)\, Marton Nagy (Eotvos Lo
+ rand University (HU))\nhttps://indico.cern.ch/event/980953/contributions/4
+ 136054/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136054/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spin polarization in Heavy-Ion Collisions
+DTSTART;VALUE=DATE-TIME:20201211T073000Z
+DTEND;VALUE=DATE-TIME:20201211T074500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136053  indico.cern.ch
+DESCRIPTION:Speakers: RAJEEV SINGH (Universite Blaise Pascal)\, Rajeev Sin
+ gh (Institute of Nuclear Physics Polish Academy of Sciences)\nhttps://indi
+ co.cern.ch/event/980953/contributions/4136053/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136053/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polarization in relativistic heavy ion collisions
+DTSTART;VALUE=DATE-TIME:20201211T070000Z
+DTEND;VALUE=DATE-TIME:20201211T073000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136052  indico.cern.ch
+DESCRIPTION:Speakers: Francesco Becattini (Unversity of Florence)\nhttps:/
+ /indico.cern.ch/event/980953/contributions/4136052/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136052/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Search for jet quenching effects in high-multiplicity proton-proto
+ n collisions at sqrt{s} = 13 TeV
+DTSTART;VALUE=DATE-TIME:20201210T184500Z
+DTEND;VALUE=DATE-TIME:20201210T190000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136051  indico.cern.ch
+DESCRIPTION:Speakers: Artem Kotliarov ()\, Artem Kotliarov (Czech Academy 
+ of Sciences (CZ))\nhttps://indico.cern.ch/event/980953/contributions/41360
+ 51/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136051/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quenching effects in the cumulative jet spectrum
+DTSTART;VALUE=DATE-TIME:20201210T183000Z
+DTEND;VALUE=DATE-TIME:20201210T184500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136050  indico.cern.ch
+DESCRIPTION:Speakers: Adam Takacs (University of Bergen)\nhttps://indico.c
+ ern.ch/event/980953/contributions/4136050/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136050/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multi-Parton Interactions from Machine Learning-based regression i
+ n pp collisions from RHIC to LHC energies
+DTSTART;VALUE=DATE-TIME:20201210T180000Z
+DTEND;VALUE=DATE-TIME:20201210T183000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136049  indico.cern.ch
+DESCRIPTION:Speakers: Antonio Ortiz Velasquez (Universidad Nacional Autono
+ ma (MX))\nhttps://indico.cern.ch/event/980953/contributions/4136049/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136049/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jet probes of the Quark-Gluon Plasma: Round up of LHC Results
+DTSTART;VALUE=DATE-TIME:20201210T173000Z
+DTEND;VALUE=DATE-TIME:20201210T180000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136048  indico.cern.ch
+DESCRIPTION:Speakers: Dennis Perepelitsa (University of Colorado Boulder)\
+ nhttps://indico.cern.ch/event/980953/contributions/4136048/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136048/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bottomonium suppression and elliptic flow from real-time quantum e
+ volution
+DTSTART;VALUE=DATE-TIME:20201210T170000Z
+DTEND;VALUE=DATE-TIME:20201210T173000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136047  indico.cern.ch
+DESCRIPTION:Speakers: Michael Strickland (Gettysburg College)\, Michael St
+ rickland ()\, Michael Strickland (Kent State University)\nhttps://indico.c
+ ern.ch/event/980953/contributions/4136047/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136047/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHENIX Heavy Flavor Results
+DTSTART;VALUE=DATE-TIME:20201210T154500Z
+DTEND;VALUE=DATE-TIME:20201210T160000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136046  indico.cern.ch
+DESCRIPTION:Speakers: Krista Smith (Florida State University)\nhttps://ind
+ ico.cern.ch/event/980953/contributions/4136046/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136046/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent measurements of D0 mesons flow using the CMS detector at th
+ e LHC
+DTSTART;VALUE=DATE-TIME:20201210T152000Z
+DTEND;VALUE=DATE-TIME:20201210T154500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136045  indico.cern.ch
+DESCRIPTION:Speakers: Cesar Bernardes (UNESP - Universidade Estadual  Paul
+ ista (BR))\nhttps://indico.cern.ch/event/980953/contributions/4136045/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136045/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intiial state and collectivity
+DTSTART;VALUE=DATE-TIME:20201210T145500Z
+DTEND;VALUE=DATE-TIME:20201210T152000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136044  indico.cern.ch
+DESCRIPTION:Speakers: Jiangyong Jia (Stony Brook University (US))\nhttps:/
+ /indico.cern.ch/event/980953/contributions/4136044/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136044/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anisotropic flow studies
+DTSTART;VALUE=DATE-TIME:20201210T143000Z
+DTEND;VALUE=DATE-TIME:20201210T145500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136043  indico.cern.ch
+DESCRIPTION:Speakers: Panos Christakoglou (Nikhef National institute  for 
+ subatomic physics (NL))\, Panos Christakoglou (Nikhef National institute  
+ for subatomic physics (NL))\nhttps://indico.cern.ch/event/980953/contribut
+ ions/4136043/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136043/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QGP Production in Small Systems
+DTSTART;VALUE=DATE-TIME:20201210T140000Z
+DTEND;VALUE=DATE-TIME:20201210T143000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136042  indico.cern.ch
+DESCRIPTION:Speakers: James Lawrence Nagle (University of Copenhagen (DK))
+ \, James Lawrence Nagle (University of Colorado Boulder)\, James Nagle (Un
+ known)\nhttps://indico.cern.ch/event/980953/contributions/4136042/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136042/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scaling properties of jet-momentum profiles with multiplicity
+DTSTART;VALUE=DATE-TIME:20201210T114500Z
+DTEND;VALUE=DATE-TIME:20201210T121000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136041  indico.cern.ch
+DESCRIPTION:Speakers: Robert Vertesi (MTA KFKI RMKI)\, Robert Vertesi ()\,
+  Robert Vertesi (Wigner Research Centre for Physics (Wigner RCP) (HU))\nht
+ tps://indico.cern.ch/event/980953/contributions/4136041/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136041/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragmentation and equilibration of jets in a QCD plasma
+DTSTART;VALUE=DATE-TIME:20201210T113000Z
+DTEND;VALUE=DATE-TIME:20201210T114500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136040  indico.cern.ch
+DESCRIPTION:Speakers: ismail soudi ()\nhttps://indico.cern.ch/event/980953
+ /contributions/4136040/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136040/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detailing the Odderon-effect: numerical examples
+DTSTART;VALUE=DATE-TIME:20201210T111000Z
+DTEND;VALUE=DATE-TIME:20201210T113000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136039  indico.cern.ch
+DESCRIPTION:Speakers: Tamas Novak (Unknown)\, Tamas Novak (H)\, Tamas Nova
+ k ()\, Tamas Novak ()\nhttps://indico.cern.ch/event/980953/contributions/4
+ 136039/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136039/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scaling properties of elastic pp and pbarp scattering - H(x) and A
+ (x) comparisons
+DTSTART;VALUE=DATE-TIME:20201210T105000Z
+DTEND;VALUE=DATE-TIME:20201210T111000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136038  indico.cern.ch
+DESCRIPTION:Speakers: Andras Ster (KFKI-RMKI)\, Andras Ster (Hungarian Aca
+ demy of Sciences (HU))\nhttps://indico.cern.ch/event/980953/contributions/
+ 4136038/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136038/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent results from the TOTEM experiment at LHC
+DTSTART;VALUE=DATE-TIME:20201210T103000Z
+DTEND;VALUE=DATE-TIME:20201210T105000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136036  indico.cern.ch
+DESCRIPTION:Speakers: Frigyes Janos Nemes (CERN (also at Wigner RCP Budape
+ st\, Hungary))\, Frigyes Nemes (MTA KFKI)\nhttps://indico.cern.ch/event/98
+ 0953/contributions/4136036/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136036/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Observation of a crossing-odd component in elastic pp and pbarp co
+ llisions at TeV energies
+DTSTART;VALUE=DATE-TIME:20201210T100000Z
+DTEND;VALUE=DATE-TIME:20201210T103000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136035  indico.cern.ch
+DESCRIPTION:Speakers: Tamas Csorgo (Harvard University)\, Tamas Csorgo (Wi
+ gner Research Centre for Physics (Wigner RCP) (HU))\nhttps://indico.cern.c
+ h/event/980953/contributions/4136035/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136035/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Probing the underlying event with identified heavy-flavor triggers
+DTSTART;VALUE=DATE-TIME:20201210T083000Z
+DTEND;VALUE=DATE-TIME:20201210T084500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136034  indico.cern.ch
+DESCRIPTION:Speakers: Anett Misak (Wigner Research Centre for Physics (Wig
+ ner RCP) (HU))\nhttps://indico.cern.ch/event/980953/contributions/4136034/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136034/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heavy flavour jet production vs event activity in simulations
+DTSTART;VALUE=DATE-TIME:20201210T081500Z
+DTEND;VALUE=DATE-TIME:20201210T083000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136033  indico.cern.ch
+DESCRIPTION:Speakers: Sandor Szende  ()\nhttps://indico.cern.ch/event/980
+ 953/contributions/4136033/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136033/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heavy-flavour production in proton-proton collisions with the ALIC
+ E experiment
+DTSTART;VALUE=DATE-TIME:20201210T080000Z
+DTEND;VALUE=DATE-TIME:20201210T081500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136032  indico.cern.ch
+DESCRIPTION:Speakers: Laszlo Gyulai (Wigner Research Centre for Physics (W
+ igner RCP) (HU))\nhttps://indico.cern.ch/event/980953/contributions/413603
+ 2/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136032/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Probing pt-dependent flow vector fluctuations
+DTSTART;VALUE=DATE-TIME:20201210T074500Z
+DTEND;VALUE=DATE-TIME:20201210T080000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136031  indico.cern.ch
+DESCRIPTION:Speakers: Emil Gorm Nielsen (University of Copenhagen (DK))\nh
+ ttps://indico.cern.ch/event/980953/contributions/4136031/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136031/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fluctuations of anisotropic flow in transport
+DTSTART;VALUE=DATE-TIME:20201210T073000Z
+DTEND;VALUE=DATE-TIME:20201210T074500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136030  indico.cern.ch
+DESCRIPTION:Speakers: Hendrik Roch (University Bielefeld)\nhttps://indico.
+ cern.ch/event/980953/contributions/4136030/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136030/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Investigation of anisotropic flow in large and small collision sys
+ tems with ALICE
+DTSTART;VALUE=DATE-TIME:20201210T071500Z
+DTEND;VALUE=DATE-TIME:20201210T073000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136029  indico.cern.ch
+DESCRIPTION:Speakers: Zuzana Moravcova (University of Copenhagen (DK))\, Z
+ uzana Moravcova (Czech Technical University in Prague)\nhttps://indico.ce
+ rn.ch/event/980953/contributions/4136029/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136029/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QGP tomography: inferring bulk medium properties from high pt data
+DTSTART;VALUE=DATE-TIME:20201210T070000Z
+DTEND;VALUE=DATE-TIME:20201210T071500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136023  indico.cern.ch
+DESCRIPTION:Speakers: Stefan Stojku (Institute of Physics University of Be
+ lgrade)\nhttps://indico.cern.ch/event/980953/contributions/4136023/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discussion
+DTSTART;VALUE=DATE-TIME:20201209T173600Z
+DTEND;VALUE=DATE-TIME:20201209T181500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136022  indico.cern.ch
+DESCRIPTION:https://indico.cern.ch/event/980953/contributions/4136022/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study of Femtoscopy with D0 meson (poster)
+DTSTART;VALUE=DATE-TIME:20201209T173500Z
+DTEND;VALUE=DATE-TIME:20201209T173600Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136021  indico.cern.ch
+DESCRIPTION:Speakers: Isabela Maietto Silverio (UNESP - Universidade Estad
+ ual  Paulista (BR))\nhttps://indico.cern.ch/event/980953/contributions/413
+ 6021/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Search for stop production at LHC CMS (poster)
+DTSTART;VALUE=DATE-TIME:20201209T173400Z
+DTEND;VALUE=DATE-TIME:20201209T173500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136020  indico.cern.ch
+DESCRIPTION:Speakers: Nora Rab (Eotvos Lorand University (HU))\nhttps://in
+ dico.cern.ch/event/980953/contributions/4136020/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136020/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Observation of double-parton interactions in CERN LHC CMS experime
+ nt (poster)
+DTSTART;VALUE=DATE-TIME:20201209T173300Z
+DTEND;VALUE=DATE-TIME:20201209T173400Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136019  indico.cern.ch
+DESCRIPTION:Speakers: Csenge Komjati ()\nhttps://indico.cern.ch/event/980
+ 953/contributions/4136019/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136019/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B-tagging optimisation for scalar stop search in a compressed SUSY
+  scenario (poster)
+DTSTART;VALUE=DATE-TIME:20201209T173200Z
+DTEND;VALUE=DATE-TIME:20201209T173300Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136018  indico.cern.ch
+DESCRIPTION:Speakers: Armin Kadlecsik (Eotvos Lorand University (HU))\nhtt
+ ps://indico.cern.ch/event/980953/contributions/4136018/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136018/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bose-Einstein correlations in pp and pPb collisions at LHCb (poste
+ r)
+DTSTART;VALUE=DATE-TIME:20201209T173100Z
+DTEND;VALUE=DATE-TIME:20201209T173200Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4136017  indico.cern.ch
+DESCRIPTION:Speakers: Bartosz Piotr Malecki (Polish Academy of Sciences (P
+ L))\nhttps://indico.cern.ch/event/980953/contributions/4136017/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4136017/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Describing High Energy Collisions With Hydrodynamics (poster)
+DTSTART;VALUE=DATE-TIME:20201209T173000Z
+DTEND;VALUE=DATE-TIME:20201209T173100Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135763  indico.cern.ch
+DESCRIPTION:Speakers: Dener De Souza Lemos (UNESP - Universidade Estadual 
+  Paulista (BR))\nhttps://indico.cern.ch/event/980953/contributions/4135763
+ /
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135763/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Belle II experiment\, status and prospects for new physics sea
+ rches
+DTSTART;VALUE=DATE-TIME:20201209T163000Z
+DTEND;VALUE=DATE-TIME:20201209T171500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135762  indico.cern.ch
+DESCRIPTION:Speakers: Gianluca Inguglia (Austrian Academy of Sciences (AT)
+ )\, Gianluca Inguglia (Queen Mary University of London)\, gianluca ingugli
+ a ()\, gianluca inguglia ()\nhttps://indico.cern.ch/event/980953/contribut
+ ions/4135762/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135762/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MicroPattern Gaseous Detectors: construction and applications in l
+ arge tracking systems
+DTSTART;VALUE=DATE-TIME:20201209T155500Z
+DTEND;VALUE=DATE-TIME:20201209T161000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135761  indico.cern.ch
+DESCRIPTION:Speakers: Gabor Nyitrai (Wigner RCP\, Hungarian Academy of Sc
+ ience)\nhttps://indico.cern.ch/event/980953/contributions/4135761/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135761/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study of nuclear deformation effects in Au+Au and U+U collisions f
+ rom STAR experiment
+DTSTART;VALUE=DATE-TIME:20201209T153000Z
+DTEND;VALUE=DATE-TIME:20201209T155500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135760  indico.cern.ch
+DESCRIPTION:Speakers: Chunjian Zhang (stony brook university)\nhttps://ind
+ ico.cern.ch/event/980953/contributions/4135760/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135760/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asymmetry energy and nuclear equation of state: the last 30 years 
+ of experiments at GSI
+DTSTART;VALUE=DATE-TIME:20201209T150500Z
+DTEND;VALUE=DATE-TIME:20201209T153000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135759  indico.cern.ch
+DESCRIPTION:Speakers: Arnaud Le Fevre ()\nhttps://indico.cern.ch/event/980
+ 953/contributions/4135759/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135759/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study of 40\,48Ca+40\,48Ca peripheral collisions at 35 AMeV
+DTSTART;VALUE=DATE-TIME:20201209T144000Z
+DTEND;VALUE=DATE-TIME:20201209T150500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135746  indico.cern.ch
+DESCRIPTION:Speakers: Quentin Fable ()\nhttps://indico.cern.ch/event/98095
+ 3/contributions/4135746/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135746/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Latest result of NArCoS correlator and FRAISE at LNS laboratory of
+  Catania
+DTSTART;VALUE=DATE-TIME:20201209T141500Z
+DTEND;VALUE=DATE-TIME:20201209T144000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135745  indico.cern.ch
+DESCRIPTION:Speakers: Emanuele Vincenzo Pagano (INFN - National Institute 
+ for Nuclear Physics)\nhttps://indico.cern.ch/event/980953/contributions/41
+ 35745/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135745/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techniques in intermediate energy heavy ion collisions
+DTSTART;VALUE=DATE-TIME:20201209T140000Z
+DTEND;VALUE=DATE-TIME:20201209T141500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135744  indico.cern.ch
+DESCRIPTION:Speakers: Giuseppe Verde (INFN)\, Giuseppe Verde (INFN\, Sezio
+ ne di Catania)\nhttps://indico.cern.ch/event/980953/contributions/4135744/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135744/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exascale computing for HL-LHC
+DTSTART;VALUE=DATE-TIME:20201209T113000Z
+DTEND;VALUE=DATE-TIME:20201209T120000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135742  indico.cern.ch
+DESCRIPTION:Speakers: Dagmar Adamova (Czech Academy of Sciences (CZ))\nhtt
+ ps://indico.cern.ch/event/980953/contributions/4135742/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135742/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A High-Granularity Digital Tracking Calorimeter Optimized for Prot
+ on CT
+DTSTART;VALUE=DATE-TIME:20201209T111500Z
+DTEND;VALUE=DATE-TIME:20201209T113000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135741  indico.cern.ch
+DESCRIPTION:Speakers: Akos Sudar ()\nhttps://indico.cern.ch/event/980953
+ /contributions/4135741/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135741/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Role of baryon resonances in the pi p -> n e+ e- reaction within a
+ n effective-Lagrangian model
+DTSTART;VALUE=DATE-TIME:20201209T110000Z
+DTEND;VALUE=DATE-TIME:20201209T111500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135740  indico.cern.ch
+DESCRIPTION:Speakers: Deniz Nitt (TU Darmstadt)\nhttps://indico.cern.ch/ev
+ ent/980953/contributions/4135740/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135740/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tsallis-thermometer: a QGP indicator for large and small collision
+ al systems
+DTSTART;VALUE=DATE-TIME:20201209T104500Z
+DTEND;VALUE=DATE-TIME:20201209T110000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135739  indico.cern.ch
+DESCRIPTION:Speakers: Gabor Biro (Wigner Research Centre for Physics (Wign
+ er RCP) (HU))\nhttps://indico.cern.ch/event/980953/contributions/4135739/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135739/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The correct (axial) vector meson curvature masses in ELSM
+DTSTART;VALUE=DATE-TIME:20201209T103000Z
+DTEND;VALUE=DATE-TIME:20201209T104500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135738  indico.cern.ch
+DESCRIPTION:Speakers: Gyozo Kovacs (Wigner RCP)\nhttps://indico.cern.ch
+ /event/980953/contributions/4135738/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135738/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charmonium in matter
+DTSTART;VALUE=DATE-TIME:20201209T100000Z
+DTEND;VALUE=DATE-TIME:20201209T103000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135737  indico.cern.ch
+DESCRIPTION:Speakers: Gyorgy Wolf (Wigner FK)\, Gyorgy Wolf (Wigner RCP)\
+ nhttps://indico.cern.ch/event/980953/contributions/4135737/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135737/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study of 2nd order susceptibilities with EPOS event generator
+DTSTART;VALUE=DATE-TIME:20201209T084500Z
+DTEND;VALUE=DATE-TIME:20201209T090000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135736  indico.cern.ch
+DESCRIPTION:Speakers: Johannes Jahan ()\nhttps://indico.cern.ch/event/9809
+ 53/contributions/4135736/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135736/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exploring 3D structure of the Glasma
+DTSTART;VALUE=DATE-TIME:20201209T083000Z
+DTEND;VALUE=DATE-TIME:20201209T084500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135735  indico.cern.ch
+DESCRIPTION:Speakers: Pragya Singh (University of Bielefeld)\nhttps://indi
+ co.cern.ch/event/980953/contributions/4135735/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135735/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnetic interaction of baryon resonances from pion-nucleon
+  collisions
+DTSTART;VALUE=DATE-TIME:20201209T080000Z
+DTEND;VALUE=DATE-TIME:20201209T083000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135734  indico.cern.ch
+DESCRIPTION:Speakers: Miklos Zetenyi (RMKI)\, Miklos Zetenyi (Wigner RCP\,
+  Budapest)\nhttps://indico.cern.ch/event/980953/contributions/4135734/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135734/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phase diagram and dualities in two color QCD
+DTSTART;VALUE=DATE-TIME:20201209T073000Z
+DTEND;VALUE=DATE-TIME:20201209T080000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135730  indico.cern.ch
+DESCRIPTION:Speakers: Roman Zhokhov (IHEP)\, Roman Zhokhov (Institute for 
+ high energy physics)\nhttps://indico.cern.ch/event/980953/contributions/41
+ 35730/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135730/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A proposal of a new conventional formula for Bose-Einstein correla
+ tions
+DTSTART;VALUE=DATE-TIME:20201209T070000Z
+DTEND;VALUE=DATE-TIME:20201209T073000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135729  indico.cern.ch
+DESCRIPTION:Speakers: Takuya Mizoguchi (Toba National College of Maritime 
+ Technology)\nhttps://indico.cern.ch/event/980953/contributions/4135729/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135729/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accessing Generalized Parton Distributions at Jefferson Lab
+DTSTART;VALUE=DATE-TIME:20201208T183000Z
+DTEND;VALUE=DATE-TIME:20201208T185500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135727  indico.cern.ch
+DESCRIPTION:Speakers: Ho San KO (Paris-Sud University)\nhttps://indico.cer
+ n.ch/event/980953/contributions/4135727/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135727/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New results on Odderon search using the Bialas-Bzdak model
+DTSTART;VALUE=DATE-TIME:20201208T181500Z
+DTEND;VALUE=DATE-TIME:20201208T183000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135726  indico.cern.ch
+DESCRIPTION:Speakers: Istvan Szanyi (Hungarian Academy of Sciences (HU))\,
+  Istvan Szanyi (Eotvos Lorand University)\nhttps://indico.cern.ch/even
+ t/980953/contributions/4135726/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135726/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study of hard color singlet exchange in dijet events with pp colli
+ sions at sqrt(s) = 13 TeV
+DTSTART;VALUE=DATE-TIME:20201208T175000Z
+DTEND;VALUE=DATE-TIME:20201208T181500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135725  indico.cern.ch
+
+
+
+
+
+
+DESCRIPTION:Speakers: Cristian Baldenegro Barrera (The University of Kansa
+ s (US))\nhttps://indico.cern.ch/event/980953/contributions/4135725/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135725/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soft and hard diffraction and photon exchange processes at the LHC
+DTSTART;VALUE=DATE-TIME:20201208T170000Z
+DTEND;VALUE=DATE-TIME:20201208T175000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135724  indico.cern.ch
+DESCRIPTION:Speakers: Christophe Royon (The University of Kansas (US))\nht
+ tps://indico.cern.ch/event/980953/contributions/4135724/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135724/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dynamical Thermalization in Heavy-Ion Collisions
+DTSTART;VALUE=DATE-TIME:20201208T155000Z
+DTEND;VALUE=DATE-TIME:20201208T160500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135721  indico.cern.ch
+DESCRIPTION:Speakers: Mahbobeh Jafarpour (SUBATECH)\nhttps://indico.cern.c
+ h/event/980953/contributions/4135721/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135721/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early time anisotropies in kinetic theory
+DTSTART;VALUE=DATE-TIME:20201208T153500Z
+DTEND;VALUE=DATE-TIME:20201208T155000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135719  indico.cern.ch
+DESCRIPTION:Speakers: Marc Borrell Martinez (University of Bielefeld)\nhtt
+ ps://indico.cern.ch/event/980953/contributions/4135719/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135719/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anisotropic flow in non-equilibrated systems
+DTSTART;VALUE=DATE-TIME:20201208T152000Z
+DTEND;VALUE=DATE-TIME:20201208T153500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135711  indico.cern.ch
+DESCRIPTION:Speakers: Nina Kersting (Bielefeld University)\nhttps://indico
+ .cern.ch/event/980953/contributions/4135711/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135711/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EoS vs final observables with EPOS model
+DTSTART;VALUE=DATE-TIME:20201208T150500Z
+DTEND;VALUE=DATE-TIME:20201208T152000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135710  indico.cern.ch
+DESCRIPTION:Speakers: Maria Stefaniak (Warsaw University Of Technology)\, 
+ Maria Stefaniak (Warsaw University of Technology / Subatech)\nhttps://indi
+ co.cern.ch/event/980953/contributions/4135710/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135710/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fluctuating hydrodynamics from Crooks theorem
+DTSTART;VALUE=DATE-TIME:20201208T144000Z
+DTEND;VALUE=DATE-TIME:20201208T150500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135709  indico.cern.ch
+DESCRIPTION:Speakers: Giorgio Torrieri (IFGW\, Unicamp)\nhttps://indico.ce
+ rn.ch/event/980953/contributions/4135709/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135709/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Direct Photon Measurements at PHENIX
+DTSTART;VALUE=DATE-TIME:20201208T142500Z
+DTEND;VALUE=DATE-TIME:20201208T144000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135708  indico.cern.ch
+DESCRIPTION:Speakers: Wenqing Fan (Stony Brook University)\nhttps://indico
+ .cern.ch/event/980953/contributions/4135708/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135708/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overview of the latest PHENIX results
+DTSTART;VALUE=DATE-TIME:20201208T140000Z
+DTEND;VALUE=DATE-TIME:20201208T142500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135705  indico.cern.ch
+DESCRIPTION:Speakers: Takao Sakaguchi (BNL)\nhttps://indico.cern.ch/event/
+ 980953/contributions/4135705/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135705/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study of central exclusive production in proton-proton collisions 
+ at 510 GeV with STAR detector at RHIC
+DTSTART;VALUE=DATE-TIME:20201208T114500Z
+DTEND;VALUE=DATE-TIME:20201208T120000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135704  indico.cern.ch
+DESCRIPTION:Speakers: Tomas Truhlar ()\nhttps://indico.cern.ch/event/9
+ 80953/contributions/4135704/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135704/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Isolated photon production in pA collisions from CGC
+DTSTART;VALUE=DATE-TIME:20201208T113000Z
+DTEND;VALUE=DATE-TIME:20201208T114500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135703  indico.cern.ch
+DESCRIPTION:Speakers: Anton Perkov ()\nhttps://indico.cern.ch/event/980953
+ /contributions/4135703/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135703/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:System size and centrality dependence of dilepton radiation at E_b
+ eam = 1.23A GeV with HADES
+DTSTART;VALUE=DATE-TIME:20201208T110000Z
+DTEND;VALUE=DATE-TIME:20201208T113000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135702  indico.cern.ch
+DESCRIPTION:Speakers: Szymon Harabasz ()\, Szymon Harabasz (TU Darmstadt)\
+ nhttps://indico.cern.ch/event/980953/contributions/4135702/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135702/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dilepton production via photon-photon fusion in semicentral heavy-
+ ion collisions at small transverse momentum
+DTSTART;VALUE=DATE-TIME:20201208T103000Z
+DTEND;VALUE=DATE-TIME:20201208T110000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135701  indico.cern.ch
+DESCRIPTION:Speakers: Mariola Klusek-Gawenda (Institute of Nuclear Physics
+  Polish Academy of Sciences)\, Mariola Klusek-Gawenda (IFJ PAS)\nhttps://
+ indico.cern.ch/event/980953/contributions/4135701/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135701/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Isolated photon production and pion-photon correlations in high-en
+ ergy pp and pA collisions
+DTSTART;VALUE=DATE-TIME:20201208T100000Z
+DTEND;VALUE=DATE-TIME:20201208T103000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135700  indico.cern.ch
+DESCRIPTION:Speakers: Michal Sumbera (Nuclear Physics Institute\, Acad. of
+  Sciences of the Czech Rep. (CZ))\nhttps://indico.cern.ch/event/980953/con
+ tributions/4135700/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135700/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New solutions of relativistic\, dissipative hydrodynamics
+DTSTART;VALUE=DATE-TIME:20201208T083000Z
+DTEND;VALUE=DATE-TIME:20201208T085000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135698  indico.cern.ch
+DESCRIPTION:Speakers: Gabor Kasza (Eotvos Lorand University)\nhttps://
+ indico.cern.ch/event/980953/contributions/4135698/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135698/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linearized kinetic description of non-equilibrium dynamics in pp a
+ nd pA collisions
+DTSTART;VALUE=DATE-TIME:20201208T081500Z
+DTEND;VALUE=DATE-TIME:20201208T083000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135697  indico.cern.ch
+DESCRIPTION:Speakers: Clemens Werthmann (University of Bielefeld)\nhttps:/
+ /indico.cern.ch/event/980953/contributions/4135697/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135697/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study of degrees of freedom in dense QCD matter using Color String
+  Percolation Model
+DTSTART;VALUE=DATE-TIME:20201208T080000Z
+DTEND;VALUE=DATE-TIME:20201208T081500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135696  indico.cern.ch
+DESCRIPTION:Speakers: Aditya Nath Mishra (ICN-UNAM)\, aditya mishra (phd s
+ tudent)\nhttps://indico.cern.ch/event/980953/contributions/4135696/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135696/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hydrodynamization and the first-order stable hydrodynamics
+DTSTART;VALUE=DATE-TIME:20201208T073000Z
+DTEND;VALUE=DATE-TIME:20201208T080000Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135695  indico.cern.ch
+DESCRIPTION:Speakers: Masoud Shokri (Sharif university of technology)\nhtt
+ ps://indico.cern.ch/event/980953/contributions/4135695/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135695/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Does eta/s depend on the EoS?
+DTSTART;VALUE=DATE-TIME:20201208T070000Z
+DTEND;VALUE=DATE-TIME:20201208T073000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4135694  indico.cern.ch
+DESCRIPTION:Speakers: Pasi Huovinen (Department of Information Technology)
+ \, Pasi Huovinen (University of Wroclaw)\nhttps://indico.cern.ch/event/980
+ 953/contributions/4135694/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4135694/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Report on tests of CPT invariance at CERN
+DTSTART;VALUE=DATE-TIME:20201207T184500Z
+DTEND;VALUE=DATE-TIME:20201207T190500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133516  indico.cern.ch
+DESCRIPTION:Speakers: Dezso Horvath (Hungarian Academy of Sciences (HU))\,
+  Dezso Horvath (KFKI Research Institute for Particle and Nuclear Physics)\
+ , Dezso Horvath (Wigner RCP\, Budapest (HU))\nhttps://indico.cern.ch/event
+ /980953/contributions/4133516/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133516/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Status of Baryon and Strangeness Production Studies in High-Multip
+ licity pp Collisions at LHCb
+DTSTART;VALUE=DATE-TIME:20201207T183000Z
+DTEND;VALUE=DATE-TIME:20201207T184500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133515  indico.cern.ch
+DESCRIPTION:Speakers: Desmond Mzamo Shangase (University of Michigan (US))
+ \nhttps://indico.cern.ch/event/980953/contributions/4133515/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133515/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chiral magnetic effect
+DTSTART;VALUE=DATE-TIME:20201207T180000Z
+DTEND;VALUE=DATE-TIME:20201207T183000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133514  indico.cern.ch
+DESCRIPTION:Speakers: Soeren Schlichting (Universitat Bielefeld)\nhttps:/
+ /indico.cern.ch/event/980953/contributions/4133514/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133514/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collectivity and anomalous transport in the QGP
+DTSTART;VALUE=DATE-TIME:20201207T173000Z
+DTEND;VALUE=DATE-TIME:20201207T180000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133513  indico.cern.ch
+DESCRIPTION:Speakers: Roy Alphanso Lacey (Stony brook Universty (US))\, Ro
+ y Lacey (Stony Brook University)\nhttps://indico.cern.ch/event/980953/cont
+ ributions/4133513/
+ 
+ 
+ 
+ 
+ 
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133513/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Origins of Quarkyoninc Matter
+DTSTART;VALUE=DATE-TIME:20201207T170000Z
+DTEND;VALUE=DATE-TIME:20201207T173000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133512  indico.cern.ch
+DESCRIPTION:Speakers: Larry McLerran (BNL)\, Larry McLerran (BNL)\nhttps:/
+ /indico.cern.ch/event/980953/contributions/4133512/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133512/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coulomb interaction for Levy sources
+
+
+
+
+
+
+
+
+
+
+
+
+DTSTART;VALUE=DATE-TIME:20201207T154500Z
+DTEND;VALUE=DATE-TIME:20201207T160000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133511  indico.cern.ch
+DESCRIPTION:Speakers: Balint Kurgyis ()\nhttps://indico.cern.ch/event/980
+ 953/contributions/4133511/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133511/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final state interactions for Levy sources
+DTSTART;VALUE=DATE-TIME:20201207T153000Z
+DTEND;VALUE=DATE-TIME:20201207T154500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133510  indico.cern.ch
+DESCRIPTION:Speakers: Mate Csanad (Eotvos University\, Budapest)\nhttps://
+ indico.cern.ch/event/980953/contributions/4133510/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133510/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selected results on correlations from CMS
+DTSTART;VALUE=DATE-TIME:20201207T150000Z
+DTEND;VALUE=DATE-TIME:20201207T153000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133509  indico.cern.ch
+DESCRIPTION:Speakers: Sandra Padula (UNESP - Universidade Estadual  Paulis
+ ta (BR))\nhttps://indico.cern.ch/event/980953/contributions/4133509/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133509/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Very forward neutrons and photons at LHC and EIC
+DTSTART;VALUE=DATE-TIME:20201207T143000Z
+DTEND;VALUE=DATE-TIME:20201207T150000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133508  indico.cern.ch
+DESCRIPTION:Speakers: Michael Murray (The University of Kansas (US))\nhttp
+ s://indico.cern.ch/event/980953/contributions/4133508/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133508/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Electron-Ion Collider: A New Tool to Study QCD
+DTSTART;VALUE=DATE-TIME:20201207T140000Z
+DTEND;VALUE=DATE-TIME:20201207T143000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133507  indico.cern.ch
+DESCRIPTION:Speakers: Christine Aidala (University of Michigan (US))\, Chr
+ istine Aidala ()\nhttps://indico.cern.ch/event/980953/contributions/413350
+ 7/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133507/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coulomb correction for Levy sources
+DTSTART;VALUE=DATE-TIME:20201207T113500Z
+DTEND;VALUE=DATE-TIME:20201207T115000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133501  indico.cern.ch
+DESCRIPTION:Speakers: Sandor Lokos (Eotvos Lorand University (HU))\nhttps:
+ //indico.cern.ch/event/980953/contributions/4133501/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133501/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Investigating the two-particle source function in heavy-ion collis
+ ions with the EPOS model
+DTSTART;VALUE=DATE-TIME:20201207T112000Z
+DTEND;VALUE=DATE-TIME:20201207T113500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133500  indico.cern.ch
+DESCRIPTION:Speakers: Daniel Kincses (Eotvos Lorand University Budapes
+ t)\, Daniel Kincses (Eotvos Lorand University)\nhttps://indico.cern.ch
+ /event/980953/contributions/4133500/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133500/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaon-proton femtoscopy in Pb-Pb collisions with ALICE at the LHC
+DTSTART;VALUE=DATE-TIME:20201207T110500Z
+DTEND;VALUE=DATE-TIME:20201207T112000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133499  indico.cern.ch
+DESCRIPTION:Speakers: Wioleta Rzesa (Warsaw University of Technology (PL))
+ \nhttps://indico.cern.ch/event/980953/contributions/4133499/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133499/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Future physics program and prospectives for the NA61/SHINE large a
+ cceptance particle spectrometer at the CERN SPS
+DTSTART;VALUE=DATE-TIME:20201207T104000Z
+DTEND;VALUE=DATE-TIME:20201207T110500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133498  indico.cern.ch
+DESCRIPTION:Speakers: Andrey Seryakov (St Petersburg State University (RU)
+ )\nhttps://indico.cern.ch/event/980953/contributions/4133498/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133498/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phase diagram of strongly interacting matter
+DTSTART;VALUE=DATE-TIME:20201207T100000Z
+DTEND;VALUE=DATE-TIME:20201207T104000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133497  indico.cern.ch
+DESCRIPTION:Speakers: Frithjof Karsch (Brookhaven National Laboratory)\nht
+ tps://indico.cern.ch/event/980953/contributions/4133497/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133497/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Femtoscopy of neutral kaons
+DTSTART;VALUE=DATE-TIME:20201207T085500Z
+DTEND;VALUE=DATE-TIME:20201207T091000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133490  indico.cern.ch
+DESCRIPTION:Speakers: Diana Pawlowska (Warsaw University of Technology)\,
+  Diana Pawlowska ()\nhttps://indico.cern.ch/event/980953/contributions/41
+ 33490/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133490/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Momentum resolution correction in femtoscopic measurements
+DTSTART;VALUE=DATE-TIME:20201207T084000Z
+DTEND;VALUE=DATE-TIME:20201207T085500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133488  indico.cern.ch
+DESCRIPTION:Speakers: Pavel Szymanski ()\nhttps://indico.cern.ch/event/980
+ 953/contributions/4133488/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133488/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dilepton Signature of a First-Order Phase Transition
+DTSTART;VALUE=DATE-TIME:20201207T082500Z
+DTEND;VALUE=DATE-TIME:20201207T084000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133485  indico.cern.ch
+DESCRIPTION:Speakers: Ayon Mukherjee ()\, Ayon Mukherjee ()\nhttps://indic
+ o.cern.ch/event/980953/contributions/4133485/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133485/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deconfinement and the explicit center symmetry breaking in a stron
+ g magnetic field
+DTSTART;VALUE=DATE-TIME:20201207T081000Z
+DTEND;VALUE=DATE-TIME:20201207T082500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133484  indico.cern.ch
+DESCRIPTION:Speakers: Michal Szymanski (University of Wroclaw)\nhttps://in
+ dico.cern.ch/event/980953/contributions/4133484/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133484/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-equilibrium quark-gluon plasma and its connection to hydrodyna
+ mics
+DTSTART;VALUE=DATE-TIME:20201207T075000Z
+DTEND;VALUE=DATE-TIME:20201207T081000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133483  indico.cern.ch
+DESCRIPTION:Speakers: Xiaojian Du (Texas A&M University)\nhttps://indico.c
+ ern.ch/event/980953/contributions/4133483/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133483/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Effort toward High Density Matter
+DTSTART;VALUE=DATE-TIME:20201207T070500Z
+DTEND;VALUE=DATE-TIME:20201207T075000Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133482  indico.cern.ch
+DESCRIPTION:Speakers: Shoji Nagamiya (RIKEN)\nhttps://indico.cern.ch/event
+ /980953/contributions/4133482/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133482/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening
+DTSTART;VALUE=DATE-TIME:20201207T070000Z
+DTEND;VALUE=DATE-TIME:20201207T070500Z
+DTSTAMP;VALUE=DATE-TIME:20201203T121138Z
+UID:indico-contribution-980953-4133481  indico.cern.ch
+DESCRIPTION:Speakers: Peter Levai (Hungarian Academy of Sciences (HU))\, P
+ eter Levai (Wigner Research Centre for Physics (Wigner RCP) (HU))\nhttps:/
+ /indico.cern.ch/event/980953/contributions/4133481/
+LOCATION:Zoom
+URL:https://indico.cern.ch/event/980953/contributions/4133481/
+END:VEVENT
+END:VCALENDAR

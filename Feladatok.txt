@@ -1,0 +1,39 @@
+Szkriptnyelvek - vizsgafeladatok
+
+
+1. A feladat a kapott adafájlok feldolgozása és Excel-be való kiírása. A következő szerkezete legyen az Excelfájlnak:
+
+	| Név | Intézet | Előadás címe | Előadás kezdete | Előadás vége | Indico azonosító |
+
+	Az Indico azonosító egy számsor, ami kinyerhető a DESCRIPTION mezőből. A "contributions" utáni számsor az.
+	Minden adatfájl külön Excel fülön legyen!
+
+2. Olvassuk be az előző feladatban megkapott Excel fájlt és szúrjuk be a következő diagramokat (amihez persze a mennyiségeket
+is elő kell állítanunk):
+	a) Az előadások hosszát az évek függvényében
+	b) A résztvevők számát az évek függvényében
+	c) Az előadások hosszát a résztvevők számának függvényében
+	d) Mentsük mindezt külön fülre!
+
+
+
+3. Extra feladat (szorgalmi, a fenti kettő kiváltható ezzel az eggyel): 
+	Használjuk a pandas csomagot és a 2/c) helyett keressünk korrelációt. A pandas csomagot érdemes Jupyter Notebook-ban használni.
+
+
+
+
+
+Akit a 3. feladat érdekel, nyugodtan keressen meg e-mailben, segítek elindulni. Az 1-2. VAGY a 3. feladat önmagában elegendő a tárgy teljesítéséhez.
+Kérem az egymásról másolást kerüljék. Nagyon gyorsan ki lehet szúrni! Másolás esetén 1-es kerül a Neptunba és utóvizsgán lehet csak jegyet szerezni.
+
+Bármilyen probléma, kérdés esetén keressenek a lokos.sandor@szie.hu címen.
+
+Beadási határidő: december 17. 23:59
+
+
+
+
+
+Jó munkát!
+

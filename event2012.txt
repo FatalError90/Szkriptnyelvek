@@ -1,0 +1,747 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:Higgs and SUSY results from CMS
+DTSTART;VALUE=DATE-TIME:20121204T151500Z
+DTEND;VALUE=DATE-TIME:20121204T160000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456170@indico.cern.ch
+DESCRIPTION:Speakers: Dezso Horvath (Hungarian Academy of Sciences (HU))\n
+ https://indico.cern.ch/event/218974/contributions/456170/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456170/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lattice perspectives on a composite Higgs particle
+DTSTART;VALUE=DATE-TIME:20121206T151500Z
+DTEND;VALUE=DATE-TIME:20121206T154500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456171@indico.cern.ch
+DESCRIPTION:Speakers: Daniel Nogradi (Eotvos University\, Budapest\, Hunga
+ ry)\nhttps://indico.cern.ch/event/218974/contributions/456171/
+LOCATION:Eötvös University 0.81 Ortvay seminar hall
+URL:https://indico.cern.ch/event/218974/contributions/456171/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perspectives of laser acceleration of particles
+DTSTART;VALUE=DATE-TIME:20121207T083000Z
+DTEND;VALUE=DATE-TIME:20121207T090000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456175@indico.cern.ch
+DESCRIPTION:Speakers: Sándor Varró (Wigner RCP)\nhttps://indico.cern.ch/
+ event/218974/contributions/456175/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456175/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Latest results on pair production in strong inhomogeneous external
+  fields
+DTSTART;VALUE=DATE-TIME:20121207T090000Z
+DTEND;VALUE=DATE-TIME:20121207T093000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456176@indico.cern.ch
+DESCRIPTION:Speakers: Daniel Berenyi (Hungarian Academy of Sciences (HU))\
+ nhttps://indico.cern.ch/event/218974/contributions/456176/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456176/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40th Anniversity of QCD: High pT physics from ICHEP 1972 to ICHEP 
+ 1982 with applications to RHI collisions (Wigner Seminar)
+DTSTART;VALUE=DATE-TIME:20121207T100000Z
+DTEND;VALUE=DATE-TIME:20121207T110000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456177@indico.cern.ch
+DESCRIPTION:Speakers: Michael Tannenbaum (Brookhaven National Laboratory (
+ US))\nhttps://indico.cern.ch/event/218974/contributions/456177/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456177/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A game for disseminating particle physics knowledge - Higgs with c
+ ard games
+DTSTART;VALUE=DATE-TIME:20121204T095000Z
+DTEND;VALUE=DATE-TIME:20121204T100500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456178@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Ferenc Csorgo (KFKI Research Institute for Par
+ ticle and Nuclear Physics-Hungari)\nhttps://indico.cern.ch/event/218974/co
+ ntributions/456178/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456178/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Particle accelaration at the ELI ALPS
+DTSTART;VALUE=DATE-TIME:20121207T093000Z
+DTEND;VALUE=DATE-TIME:20121207T093500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456179@indico.cern.ch
+DESCRIPTION:Speakers: Imre Ferenc Barna (MTA KFKI AEKI)\nhttps://indico.ce
+ rn.ch/event/218974/contributions/456179/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456179/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QCD Thermodynamics With Continuum Extrapolated Wilson Fermions
+DTSTART;VALUE=DATE-TIME:20121206T132000Z
+DTEND;VALUE=DATE-TIME:20121206T134000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456181@indico.cern.ch
+DESCRIPTION:Speakers: Norbert Trombitás (Eötvös University)\nhttps://in
+ dico.cern.ch/event/218974/contributions/456181/
+LOCATION:Eötvös University 0.81 Ortvay seminar hall
+URL:https://indico.cern.ch/event/218974/contributions/456181/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Investigating m_T dependence of HBT radii in hydrodynamic models
+DTSTART;VALUE=DATE-TIME:20121204T105500Z
+DTEND;VALUE=DATE-TIME:20121204T111500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456182@indico.cern.ch
+DESCRIPTION:Speakers: Mateusz Wojciech Galazyn (Warsaw University of Techn
+ ology (PL))\nhttps://indico.cern.ch/event/218974/contributions/456182/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456182/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anisotropic hydrodynamics
+DTSTART;VALUE=DATE-TIME:20121204T130000Z
+DTEND;VALUE=DATE-TIME:20121204T133000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456184@indico.cern.ch
+DESCRIPTION:Speakers: Wojciech Florkowski (Institute of nuclear Physics\, 
+ Krakow)\nhttps://indico.cern.ch/event/218974/contributions/456184/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456184/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charge correlations and balance functions at the LHC
+DTSTART;VALUE=DATE-TIME:20121204T133000Z
+DTEND;VALUE=DATE-TIME:20121204T140000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456185@indico.cern.ch
+DESCRIPTION:Speakers: Panos Christakoglou (NIKHEF (NL))\nhttps://indico.ce
+ rn.ch/event/218974/contributions/456185/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456185/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Statistical Jet-fragmentation at LEP and LHC
+DTSTART;VALUE=DATE-TIME:20121204T090000Z
+DTEND;VALUE=DATE-TIME:20121204T092000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456186@indico.cern.ch
+DESCRIPTION:Speakers: Karoly Uermoessy (Hungarian Academy of Sciences (HU)
+ )\nhttps://indico.cern.ch/event/218974/contributions/456186/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456186/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New non-perturbative analytical equation of state for SU(3) gluon 
+ plasma
+DTSTART;VALUE=DATE-TIME:20121206T101500Z
+DTEND;VALUE=DATE-TIME:20121206T104500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456188@indico.cern.ch
+DESCRIPTION:Speakers: Vakhtang Gogokhia (Wigner RCP)\nhttps://indico.cern.
+ ch/event/218974/contributions/456188/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456188/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thermodynamics of the O(N) model using Phi-derivable approximation
+ s
+DTSTART;VALUE=DATE-TIME:20121206T104500Z
+DTEND;VALUE=DATE-TIME:20121206T111500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456189@indico.cern.ch
+DESCRIPTION:Speakers: Zsolt Szép (Hungarian Academy of Sciences)\nhttps:/
+ /indico.cern.ch/event/218974/contributions/456189/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456189/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Integrable aspects of AdS/CFT
+DTSTART;VALUE=DATE-TIME:20121206T090000Z
+DTEND;VALUE=DATE-TIME:20121206T093000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456190@indico.cern.ch
+DESCRIPTION:Speakers: Zoltán Bajnok (Wigner RCP)\nhttps://indico.cern.ch/
+ event/218974/contributions/456190/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456190/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reciprocity - a symmetry of quantum and wave scattering processes
+DTSTART;VALUE=DATE-TIME:20121206T094500Z
+DTEND;VALUE=DATE-TIME:20121206T101500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456191@indico.cern.ch
+DESCRIPTION:Speakers: Tamás Fülöp (Wigner RCP)\nhttps://indico.cern.ch/
+ event/218974/contributions/456191/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456191/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meson vacuum phenomenology: which scalar mesons are members of the
+  meson nonet?
+DTSTART;VALUE=DATE-TIME:20121206T083000Z
+DTEND;VALUE=DATE-TIME:20121206T090000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456193@indico.cern.ch
+DESCRIPTION:Speakers: Peter Kovacs (Wigner RCP)\nhttps://indico.cern.ch/ev
+ ent/218974/contributions/456193/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456193/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angular correlations of non-identified particles in pp collisions 
+ in ALICE
+DTSTART;VALUE=DATE-TIME:20121205T084000Z
+DTEND;VALUE=DATE-TIME:20121205T090000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456194@indico.cern.ch
+DESCRIPTION:Speakers: Jeremi Niedziela (Warsaw University of Technology (P
+ L))\nhttps://indico.cern.ch/event/218974/contributions/456194/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456194/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angular correlations of identified particles in pp collisions in A
+ LICE
+DTSTART;VALUE=DATE-TIME:20121205T090000Z
+DTEND;VALUE=DATE-TIME:20121205T092000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456195@indico.cern.ch
+DESCRIPTION:Speakers: Anna Zaborowska (Warsaw University of Technology (PL
+ ))\nhttps://indico.cern.ch/event/218974/contributions/456195/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456195/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent results on the modifications to hard probes in PbPb collisi
+ ons from the CMS Collaboration
+DTSTART;VALUE=DATE-TIME:20121205T100500Z
+DTEND;VALUE=DATE-TIME:20121205T103500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456196@indico.cern.ch
+DESCRIPTION:Speakers: Yen-Jie Lee (CERN)\nhttps://indico.cern.ch/event/218
+ 974/contributions/456196/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456196/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Results on photon and electroweak boson production in PbPb collisi
+ ons from the CMS Collaboration
+DTSTART;VALUE=DATE-TIME:20121205T103500Z
+DTEND;VALUE=DATE-TIME:20121205T110500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456197@indico.cern.ch
+DESCRIPTION:Speakers: Anna Zsigmond (Hungarian Academy of Sciences (HU))\n
+ https://indico.cern.ch/event/218974/contributions/456197/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456197/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welcome at the Wigner RCP
+DTSTART;VALUE=DATE-TIME:20121203T075500Z
+DTEND;VALUE=DATE-TIME:20121203T080000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456198@indico.cern.ch
+DESCRIPTION:Speakers: Peter Levai (Hungarian Academy of Sciences (HU))\nht
+ tps://indico.cern.ch/event/218974/contributions/456198/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456198/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening of the school
+DTSTART;VALUE=DATE-TIME:20121203T075000Z
+DTEND;VALUE=DATE-TIME:20121203T075500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456199@indico.cern.ch
+DESCRIPTION:Speakers: Mate Csanad ()\nhttps://indico.cern.ch/event/218974/
+ contributions/456199/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456199/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Correlations and space-time probes in heavy-ion collisions
+DTSTART;VALUE=DATE-TIME:20121203T083000Z
+DTEND;VALUE=DATE-TIME:20121203T090000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456200@indico.cern.ch
+DESCRIPTION:Speakers: Giuseppe Verde ()\nhttps://indico.cern.ch/event/2189
+ 74/contributions/456200/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456200/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Production of Xi hyperon in nuclear collisions at subthreshold ene
+ rgies
+DTSTART;VALUE=DATE-TIME:20121203T080000Z
+DTEND;VALUE=DATE-TIME:20121203T083000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456201@indico.cern.ch
+DESCRIPTION:Speakers: Boris Tomasik (Univerzita Mateja Bela (SK))\nhttps:/
+ /indico.cern.ch/event/218974/contributions/456201/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456201/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Equation of state of the very dense nuclear matter
+DTSTART;VALUE=DATE-TIME:20121203T094500Z
+DTEND;VALUE=DATE-TIME:20121203T101500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456202@indico.cern.ch
+DESCRIPTION:Speakers: Kristian Petrik (Institute of Physics\, Slovak Acade
+ my of Sciences)\nhttps://indico.cern.ch/event/218974/contributions/456202/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456202/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Access to particle-particle emitting source at intermediate energy
+DTSTART;VALUE=DATE-TIME:20121203T090000Z
+DTEND;VALUE=DATE-TIME:20121203T093000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456203@indico.cern.ch
+DESCRIPTION:Speakers: Emanuele Pagano (INFN-LNS and Universita di Catania)
+ \nhttps://indico.cern.ch/event/218974/contributions/456203/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456203/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Correlations in p-Pb collisions
+DTSTART;VALUE=DATE-TIME:20121203T104500Z
+DTEND;VALUE=DATE-TIME:20121203T111500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456204@indico.cern.ch
+DESCRIPTION:Speakers: Wojciech Broniowski (IFJ PAN)\nhttps://indico.cern.c
+ h/event/218974/contributions/456204/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456204/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pionic Freezeout Hypersurfaces in Relativistic Nucleus-Nucleus Col
+ lisions
+DTSTART;VALUE=DATE-TIME:20121203T101500Z
+DTEND;VALUE=DATE-TIME:20121203T104500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456205@indico.cern.ch
+DESCRIPTION:Speakers: Dmitry Anchishkin (Bogolyubov Institute for Theoreti
+ cal Physics (ITP))\nhttps://indico.cern.ch/event/218974/contributions/4562
+ 05/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456205/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heavy flavour production at the CERN-LHC
+DTSTART;VALUE=DATE-TIME:20121203T134000Z
+DTEND;VALUE=DATE-TIME:20121203T141000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456206@indico.cern.ch
+DESCRIPTION:Speakers: Andre Mischke (Utrecht University (NL))\nhttps://ind
+ ico.cern.ch/event/218974/contributions/456206/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456206/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study of jet energy loss and the LHC ALICE data
+DTSTART;VALUE=DATE-TIME:20121203T130000Z
+DTEND;VALUE=DATE-TIME:20121203T134000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456207@indico.cern.ch
+DESCRIPTION:Speakers: Peter Levai (Hungarian Academy of Sciences (HU))\nht
+ tps://indico.cern.ch/event/218974/contributions/456207/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456207/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Low momentum proton identification in p+A interaction at SPS energ
+ ies
+DTSTART;VALUE=DATE-TIME:20121206T164500Z
+DTEND;VALUE=DATE-TIME:20121206T170500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456208@indico.cern.ch
+DESCRIPTION:Speakers: Krisztina Marton (Eotvos Lorand University (HU))\nht
+ tps://indico.cern.ch/event/218974/contributions/456208/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456208/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Controlling the TOTEM experiment at the CERN LHC
+DTSTART;VALUE=DATE-TIME:20121203T160000Z
+DTEND;VALUE=DATE-TIME:20121203T163000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456209@indico.cern.ch
+DESCRIPTION:Speakers: Fernando Lucas Rodriguez (CERN)\nhttps://indico.cern
+ .ch/event/218974/contributions/456209/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456209/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Probing the quantum vacuum by high-intensity lasers
+DTSTART;VALUE=DATE-TIME:20121207T080000Z
+DTEND;VALUE=DATE-TIME:20121207T083000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456210@indico.cern.ch
+DESCRIPTION:Speakers: Kensuke Homma (Hiroshima University)\nhttps://indico
+ .cern.ch/event/218974/contributions/456210/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456210/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High resolution scan for micropattern gaseous photon detectors
+DTSTART;VALUE=DATE-TIME:20121203T165000Z
+DTEND;VALUE=DATE-TIME:20121203T171000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456211@indico.cern.ch
+DESCRIPTION:Speakers: Gergo Hamar (MTA KFKI RMKI)\nhttps://indico.cern.ch/
+ event/218974/contributions/456211/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456211/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chaoticity Measurements in Pb-Pb Collisions at sNN = 2.76 TeV in A
+ LICE
+DTSTART;VALUE=DATE-TIME:20121203T141000Z
+DTEND;VALUE=DATE-TIME:20121203T144000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456213@indico.cern.ch
+DESCRIPTION:Speakers: Dhevan Raja Gangadharan (Ohio State University (US))
+ \nhttps://indico.cern.ch/event/218974/contributions/456213/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456213/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Low momentum particle identification and its applications in CMS
+DTSTART;VALUE=DATE-TIME:20121205T093500Z
+DTEND;VALUE=DATE-TIME:20121205T100500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456214@indico.cern.ch
+DESCRIPTION:Speakers: Ferenc Sikler (Wigner RCP\, Budapest (HU))\nhttps://
+ indico.cern.ch/event/218974/contributions/456214/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456214/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The TOTEM Experiment: Results and Perspectives
+DTSTART;VALUE=DATE-TIME:20121203T152000Z
+DTEND;VALUE=DATE-TIME:20121203T160000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456215@indico.cern.ch
+DESCRIPTION:Speakers: Mario Deile (CERN)\nhttps://indico.cern.ch/event/218
+ 974/contributions/456215/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456215/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REGGAE - generator for uniform filling of the Lorentz invariant ph
+ ase space
+DTSTART;VALUE=DATE-TIME:20121206T174500Z
+DTEND;VALUE=DATE-TIME:20121206T181500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456217@indico.cern.ch
+DESCRIPTION:Speakers: Ivan Melo (University of Zilina (SK))\nhttps://indic
+ o.cern.ch/event/218974/contributions/456217/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456217/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Young Academy of Europe
+DTSTART;VALUE=DATE-TIME:20121203T175000Z
+DTEND;VALUE=DATE-TIME:20121203T180500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456218@indico.cern.ch
+DESCRIPTION:Speakers: Andre Mischke (University of Utrecht (NL))\nhttps://
+ indico.cern.ch/event/218974/contributions/456218/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456218/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Derivation of Tsallis entropy and the temperature of quark-gluon-p
+ lasma
+DTSTART;VALUE=DATE-TIME:20121204T083000Z
+DTEND;VALUE=DATE-TIME:20121204T090000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456222@indico.cern.ch
+DESCRIPTION:Speakers: Péter Ván (Wigner RCP)\nhttps://indico.cern.ch/eve
+ nt/218974/contributions/456222/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456222/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nuclear Effects in pA Collisions at the Highest Energies
+DTSTART;VALUE=DATE-TIME:20121204T160000Z
+DTEND;VALUE=DATE-TIME:20121204T163000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456226@indico.cern.ch
+DESCRIPTION:Speakers: Gergely Barnafoldi (Wigner RCP Hungarian Academy of 
+ Sciences (HU))\nhttps://indico.cern.ch/event/218974/contributions/456226/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456226/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tsallis--Pareto-like distributions in fragmentation
+DTSTART;VALUE=DATE-TIME:20121204T103500Z
+DTEND;VALUE=DATE-TIME:20121204T105500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456228@indico.cern.ch
+DESCRIPTION:Speakers: Gergely Kalmár (Eötvös Loránd University)\nhttps
+ ://indico.cern.ch/event/218974/contributions/456228/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456228/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charmonium spectral functions in 2+1 flavour lattice QCD
+DTSTART;VALUE=DATE-TIME:20121206T134000Z
+DTEND;VALUE=DATE-TIME:20121206T140000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456230@indico.cern.ch
+DESCRIPTION:Speakers: Attila Pásztor (Eötvös University)\nhttps://indic
+ o.cern.ch/event/218974/contributions/456230/
+LOCATION:Eötvös University 0.81 Ortvay seminar hall
+URL:https://indico.cern.ch/event/218974/contributions/456230/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muon tomography
+DTSTART;VALUE=DATE-TIME:20121205T082000Z
+DTEND;VALUE=DATE-TIME:20121205T084000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456232@indico.cern.ch
+DESCRIPTION:Speakers: László Oláh ()\nhttps://indico.cern.ch/event/2189
+ 74/contributions/456232/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456232/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lattice QCD and the strongly interacting matter (Ortvay Seminar)
+DTSTART;VALUE=DATE-TIME:20121206T141000Z
+DTEND;VALUE=DATE-TIME:20121206T151000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456234@indico.cern.ch
+DESCRIPTION:Speakers: Peter Petreczky (BNL)\nhttps://indico.cern.ch/event/
+ 218974/contributions/456234/
+LOCATION:Eötvös University 0.81 Ortvay seminar hall
+URL:https://indico.cern.ch/event/218974/contributions/456234/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CERN NA61 hadron beam physics perspectives
+DTSTART;VALUE=DATE-TIME:20121206T160000Z
+DTEND;VALUE=DATE-TIME:20121206T164500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456237@indico.cern.ch
+DESCRIPTION:Speakers: Dezso Varga (Eotvos Lorand University (HU))\nhttps:/
+ /indico.cern.ch/event/218974/contributions/456237/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456237/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MasterClass. Looking for strange particles in ALICE
+DTSTART;VALUE=DATE-TIME:20121205T110500Z
+DTEND;VALUE=DATE-TIME:20121205T112500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456238@indico.cern.ch
+DESCRIPTION:Speakers: Katarzyna Dominika Surma (Warsaw University of Techn
+ ology (PL))\, Rafal Sarnecki (Warsaw University of Technology (PL))\nhttps
+ ://indico.cern.ch/event/218974/contributions/456238/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456238/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two-component Non-extensive Boltzmann equation and thermalization
+DTSTART;VALUE=DATE-TIME:20121204T080000Z
+DTEND;VALUE=DATE-TIME:20121204T083000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456239@indico.cern.ch
+DESCRIPTION:Speakers: Miklós Horváth (Wigner RCP)\nhttps://indico.cern.c
+ h/event/218974/contributions/456239/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456239/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A solvable toy model for QED at finite T
+DTSTART;VALUE=DATE-TIME:20121206T111500Z
+DTEND;VALUE=DATE-TIME:20121206T113500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456241@indico.cern.ch
+DESCRIPTION:Speakers: Peter Mati ()\nhttps://indico.cern.ch/event/218974/c
+ ontributions/456241/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456241/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Addendum: Elastic scattering\, total cross-section and charged par
+ ticle pseudorapidity density in 7 TeV pp reactions measured by the TOTEM E
+ xperiment at the LHC
+DTSTART;VALUE=DATE-TIME:20121203T180500Z
+DTEND;VALUE=DATE-TIME:20121203T182000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-2146632@indico.cern.ch
+DESCRIPTION:Speakers: Janos Sziklai (Wigner RCP\, Hungarian Academy of Sci
+ ences (HU))\nPartially supported by the OTKA NK 101438 grant. Presented by
+  J. Sziklai for the TOTEM Collaboration also at ISMD 2012\, Kielce.\n\nhtt
+ ps://indico.cern.ch/event/218974/contributions/2146632/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/2146632/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detailed Analysis of p+p Elastic Scattering Data in the Quark-Diqu
+ ark Model
+DTSTART;VALUE=DATE-TIME:20121203T173000Z
+DTEND;VALUE=DATE-TIME:20121203T175000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456220@indico.cern.ch
+DESCRIPTION:Speakers: Frigyes Janos Nemes (Hungarian Academy of Sciences (
+ HU))\nPartially supported by the OTKA NK 101438 grant.\n\nhttps://indico.c
+ ern.ch/event/218974/contributions/456220/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456220/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New exact solutions of relativistic hydrodynamics for an lQCD insp
+ ired equation of state
+DTSTART;VALUE=DATE-TIME:20121204T111500Z
+DTEND;VALUE=DATE-TIME:20121204T113500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456183@indico.cern.ch
+DESCRIPTION:Speakers: Sándor Lökös (Eötvös University)\nPartially sup
+ ported by the OTKA NK 101438 grant.\n\nhttps://indico.cern.ch/event/218974
+ /contributions/456183/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456183/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaon source imaging with STAR
+DTSTART;VALUE=DATE-TIME:20121203T144000Z
+DTEND;VALUE=DATE-TIME:20121203T151000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456212@indico.cern.ch
+DESCRIPTION:Speakers: Robert Vertesi ()\nPartially supported by the OTKA N
+ K 101438 grant.\n\nhttps://indico.cern.ch/event/218974/contributions/45621
+ 2/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456212/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entropy Production and Particle Yields in Heavy Ion Collisions at 
+ LHC
+DTSTART;VALUE=DATE-TIME:20121204T165000Z
+DTEND;VALUE=DATE-TIME:20121204T171000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456235@indico.cern.ch
+DESCRIPTION:Speakers: Béla Lukács (Wigner RCP)\nSupported by OTKA NK 101
+ 438 grant.\n\nhttps://indico.cern.ch/event/218974/contributions/456235/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456235/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A scaling law of elliptic flow in sNN = 7.7-39 GeV Au+Au collision
+ s
+DTSTART;VALUE=DATE-TIME:20121204T140000Z
+DTEND;VALUE=DATE-TIME:20121204T143000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456172@indico.cern.ch
+DESCRIPTION:Speakers: Andras Ster (Res. Inst. Particle &amp\; Nucl. Phys. 
+ - Hungarian Academy of Science)\nSupported by OTKA NK 101438 grant.\n\nhtt
+ ps://indico.cern.ch/event/218974/contributions/456172/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456172/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turbulence in Heavy Ion Reactions
+DTSTART;VALUE=DATE-TIME:20121204T100500Z
+DTEND;VALUE=DATE-TIME:20121204T103500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456173@indico.cern.ch
+DESCRIPTION:Speakers: Laszlo Csernai (Department of Physics and Technology
+ )\nPartially supported by the OTKA NK 101438 grant.\n\nhttps://indico.cern
+ .ch/event/218974/contributions/456173/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456173/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LHC optics estimation
+DTSTART;VALUE=DATE-TIME:20121203T171000Z
+DTEND;VALUE=DATE-TIME:20121203T173000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456216@indico.cern.ch
+DESCRIPTION:Speakers: Frigyes Janos Nemes (Hungarian Academy of Sciences (
+ HU))\nPartially supported by the OTKA NK 101438 grant.\n\nhttps://indico.c
+ ern.ch/event/218974/contributions/456216/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456216/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Initial energy density and pseudorapidity distributions at LHC
+DTSTART;VALUE=DATE-TIME:20121204T163000Z
+DTEND;VALUE=DATE-TIME:20121204T165000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456224@indico.cern.ch
+DESCRIPTION:Speakers: Mate Csanad ()\nSupported by OTKA NK 101438 grant.\n
+ \nhttps://indico.cern.ch/event/218974/contributions/456224/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456224/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elastic scattering and diffraction dissociation at the LHC
+DTSTART;VALUE=DATE-TIME:20121206T080000Z
+DTEND;VALUE=DATE-TIME:20121206T083000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456192@indico.cern.ch
+DESCRIPTION:Speakers: Laszlo Jenkovszky (National Academy of Sciences of U
+ kraine)\nPartially supported by OTKA NK 101438 grant.\n\nhttps://indico.ce
+ rn.ch/event/218974/contributions/456192/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456192/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New rotational solutions of hydrodynamics
+DTSTART;VALUE=DATE-TIME:20121204T093500Z
+DTEND;VALUE=DATE-TIME:20121204T095000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456187@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Ferenc Csorgo (Wigner RCP)\nSupported by the O
+ TKA NK 101438 grant.\n\nhttps://indico.cern.ch/event/218974/contributions/
+ 456187/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456187/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Three dimensional compressible Navier-Stokes equation a pure self-
+ similar solution
+DTSTART;VALUE=DATE-TIME:20121204T143000Z
+DTEND;VALUE=DATE-TIME:20121204T150000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456174@indico.cern.ch
+DESCRIPTION:Speakers: Imre Ferenc Barna (MTA KFKI AEKI)\nSupported by the 
+ OTKA NK101438 grant\n\nhttps://indico.cern.ch/event/218974/contributions/4
+ 56174/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456174/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First results from the PHENIX and STAR energy scan program
+DTSTART;VALUE=DATE-TIME:20121206T170500Z
+DTEND;VALUE=DATE-TIME:20121206T174500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456240@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Ferenc Csorgo (KFKI Research Institute for Par
+ ticle and Nuclear Physics-Hungari)\nSupported by the OTKA NK 101438 grant.
+ \n\nhttps://indico.cern.ch/event/218974/contributions/456240/
+LOCATION:Eötvös University Room 7.22\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456240/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Effects of chain decays\, radial flow and UA(1) restoration on the
+  low-mass dilepton enhancement in sqrt(s_NN) = 200 GeV Au+Au reactions
+DTSTART;VALUE=DATE-TIME:20121205T080000Z
+DTEND;VALUE=DATE-TIME:20121205T082000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T093735Z
+UID:indico-contribution-218974-456180@indico.cern.ch
+DESCRIPTION:Speakers: Marton Vargyas (ELTE)\nSupported by the OTKA NK 1014
+ 38 grant.\n\nhttps://indico.cern.ch/event/218974/contributions/456180/
+LOCATION:Wigner RCP Building 3\, Council room
+URL:https://indico.cern.ch/event/218974/contributions/456180/
+END:VEVENT
+END:VCALENDAR

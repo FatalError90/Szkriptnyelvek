@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:The NA61/Shine experiment at CERN SPS
+DTSTART;VALUE=DATE-TIME:20071207T080000Z
+DTEND;VALUE=DATE-TIME:20071207T083000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981145@indico.cern.ch
+DESCRIPTION:Speakers: Zoltan Fodor (KFKI Research Institute for Particle a
+ nd Nuclear Physics)\nhttps://indico.cern.ch/event/47153/contributions/1981
+ 145/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981145/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soft probes of high density QCD physics with CMS
+DTSTART;VALUE=DATE-TIME:20071207T083000Z
+DTEND;VALUE=DATE-TIME:20071207T090000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981146@indico.cern.ch
+DESCRIPTION:Speakers: Ferenc Sikler (KFKI Research Institute for Particle 
+ and Nuclear Physics)\nhttps://indico.cern.ch/event/47153/contributions/198
+ 1146/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981146/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jet physics in Heavy-ion collisions at the LHC with CMS
+DTSTART;VALUE=DATE-TIME:20071207T090000Z
+DTEND;VALUE=DATE-TIME:20071207T093000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981147@indico.cern.ch
+DESCRIPTION:Speakers: Krisztian Krajczar ()\nhttps://indico.cern.ch/event/
+ 47153/contributions/1981147/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981147/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mass gap from pressure inequalities
+DTSTART;VALUE=DATE-TIME:20071207T100000Z
+DTEND;VALUE=DATE-TIME:20071207T103000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981148@indico.cern.ch
+DESCRIPTION:Speakers: Andras Laszlo (KFKI Budapest)\nhttps://indico.cern.c
+ h/event/47153/contributions/1981148/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981148/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two- and three-particle correlations of pions treated within q\,p-
+ Bose gas model
+DTSTART;VALUE=DATE-TIME:20071206T150000Z
+DTEND;VALUE=DATE-TIME:20071206T153000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981149@indico.cern.ch
+DESCRIPTION:Speakers: Alexandre Gavrilik (Bogoliubov Institute for Theoret
+ ical Physics\, Kiev\, Ukraine)\nhttps://indico.cern.ch/event/47153/contrib
+ utions/1981149/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981149/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The final L3 results on Bose-Einstein correlation functions in e+e
+ - annihilations
+DTSTART;VALUE=DATE-TIME:20071206T153000Z
+DTEND;VALUE=DATE-TIME:20071206T160000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981150@indico.cern.ch
+DESCRIPTION:Speakers: Tamás Novák (Radboud University\, Nijmegen\, The N
+ etherlands)\nhttps://indico.cern.ch/event/47153/contributions/1981150/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981150/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meson-Baryon Correlations in Heavy Ion Collision using THERMINATOR
+DTSTART;VALUE=DATE-TIME:20071206T160000Z
+DTEND;VALUE=DATE-TIME:20071206T163000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981151@indico.cern.ch
+DESCRIPTION:Speakers: Marcin Zawisza (Warsaw Technical University\, Poland
+ )\nhttps://indico.cern.ch/event/47153/contributions/1981151/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981151/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First\, second\, and one-and-half order relativistic hydrodynamics
+DTSTART;VALUE=DATE-TIME:20071206T163000Z
+DTEND;VALUE=DATE-TIME:20071206T170000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981152@indico.cern.ch
+DESCRIPTION:Speakers: Péter Ván (MTA KFKI RMKI\, Budapest\, Hungary)\nht
+ tps://indico.cern.ch/event/47153/contributions/1981152/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981152/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to recombine data with correlated errors from different measur
+ ements ?
+DTSTART;VALUE=DATE-TIME:20071207T103000Z
+DTEND;VALUE=DATE-TIME:20071207T110000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981153@indico.cern.ch
+DESCRIPTION:Speakers: Robert Vertesi ()\nhttps://indico.cern.ch/event/4715
+ 3/contributions/1981153/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981153/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detailed description of accelerating\, simple solutions of relativ
+ istic perfect fluid hydrodynamics
+DTSTART;VALUE=DATE-TIME:20071207T110000Z
+DTEND;VALUE=DATE-TIME:20071207T113000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981154@indico.cern.ch
+DESCRIPTION:Speakers: Márton Nagy (MTA KFKI RMKI\, Budapest\, Hungary)\nh
+ ttps://indico.cern.ch/event/47153/contributions/1981154/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981154/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clear Experimental Evidence for Thermodynamic Description and Deco
+ nfinement of Hadronic Matter in p+pbar reactions at Tevatron
+DTSTART;VALUE=DATE-TIME:20071205T080500Z
+DTEND;VALUE=DATE-TIME:20071205T090000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981155@indico.cern.ch
+DESCRIPTION:Speakers: Laszlo Gutay (Purdue University)\nhttps://indico.cer
+ n.ch/event/47153/contributions/1981155/
+LOCATION:ELTE University 7.22
+URL:https://indico.cern.ch/event/47153/contributions/1981155/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greetings from the ELTE University and Opening the School
+DTSTART;VALUE=DATE-TIME:20071205T080000Z
+DTEND;VALUE=DATE-TIME:20071205T080500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981156@indico.cern.ch
+DESCRIPTION:Speakers: András Patkós (ELTE University\, Budapest\, Hungar
+ y)\nhttps://indico.cern.ch/event/47153/contributions/1981156/
+LOCATION:ELTE University 7.22
+URL:https://indico.cern.ch/event/47153/contributions/1981156/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milestones and new results from the PHOBOS Experiment
+DTSTART;VALUE=DATE-TIME:20071205T100000Z
+DTEND;VALUE=DATE-TIME:20071205T104000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981157@indico.cern.ch
+DESCRIPTION:Speakers: Gabor Veres (Budapest)\nhttps://indico.cern.ch/event
+ /47153/contributions/1981157/
+LOCATION:ELTE University 7.22
+URL:https://indico.cern.ch/event/47153/contributions/1981157/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent results from the PHENIX experiment at RHIC - The Fluid Natu
+ re of QGP
+DTSTART;VALUE=DATE-TIME:20071205T090000Z
+DTEND;VALUE=DATE-TIME:20071205T094000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981158@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Ferenc Csorgo (KFKI Research Institute for Par
+ ticle and Nuclear Physics-Hungari)\nhttps://indico.cern.ch/event/47153/con
+ tributions/1981158/
+LOCATION:ELTE University 7.22
+URL:https://indico.cern.ch/event/47153/contributions/1981158/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Constraints on thermalization time and shear viscosity in heavy-io
+ n collisions
+DTSTART;VALUE=DATE-TIME:20071205T111500Z
+DTEND;VALUE=DATE-TIME:20071205T114500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981159@indico.cern.ch
+DESCRIPTION:Speakers: Endre Molnár (Frankfurt Institute for Advanced Stud
+ ies\, Frankfurt\, Germany)\nhttps://indico.cern.ch/event/47153/contributio
+ ns/1981159/
+LOCATION:ELTE University 7.22
+URL:https://indico.cern.ch/event/47153/contributions/1981159/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Non-equilibrium hadronisation and event-by-event fluctuations of r
+ apidity distributions
+DTSTART;VALUE=DATE-TIME:20071205T104000Z
+DTEND;VALUE=DATE-TIME:20071205T111500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981160@indico.cern.ch
+DESCRIPTION:Speakers: Boris Tomasik (Univerzita Mateja Bela-Unknown-Unknow
+ n)\nhttps://indico.cern.ch/event/47153/contributions/1981160/
+LOCATION:ELTE University 7.22
+URL:https://indico.cern.ch/event/47153/contributions/1981160/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universal scaling of the elliptic flow in the PHENIX experiment at
+  RHIC
+DTSTART;VALUE=DATE-TIME:20071205T140000Z
+DTEND;VALUE=DATE-TIME:20071205T143000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981161@indico.cern.ch
+DESCRIPTION:Speakers: Mate Csanad (KFKI Research Institute for Particle an
+ d Nuclear Physics-Hungari)\nhttps://indico.cern.ch/event/47153/contributio
+ ns/1981161/
+LOCATION:ELTE University Novobátzky terem\, 2.54
+URL:https://indico.cern.ch/event/47153/contributions/1981161/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quark-gluon plasma/black hole duality from gauge/gravity correspon
+ dence
+DTSTART;VALUE=DATE-TIME:20071205T130000Z
+DTEND;VALUE=DATE-TIME:20071205T140000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981162@indico.cern.ch
+DESCRIPTION:Speakers: Robert Peschanski (Saclay\, France)\nhttps://indico.
+ cern.ch/event/47153/contributions/1981162/
+LOCATION:ELTE University Novobátzky terem\, 2.54
+URL:https://indico.cern.ch/event/47153/contributions/1981162/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universal properties of superfluid Fermi gases
+DTSTART;VALUE=DATE-TIME:20071205T153000Z
+DTEND;VALUE=DATE-TIME:20071205T163000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981163@indico.cern.ch
+DESCRIPTION:Speakers: András Csordás (ELTE University\, Budapest\, Hunga
+ ry)\nhttps://indico.cern.ch/event/47153/contributions/1981163/
+LOCATION:ELTE University 7.22
+URL:https://indico.cern.ch/event/47153/contributions/1981163/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:László Tisza's contributions to the theory of superfluidity
+DTSTART;VALUE=DATE-TIME:20071205T143000Z
+DTEND;VALUE=DATE-TIME:20071205T150000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981164@indico.cern.ch
+DESCRIPTION:Speakers: Tamás Geszti (ELTE University\, Budapest\, Hungary)
+ \nhttps://indico.cern.ch/event/47153/contributions/1981164/
+LOCATION:ELTE University Novobátzky terem\, 2.54
+URL:https://indico.cern.ch/event/47153/contributions/1981164/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What can we learn from the near-side hadron-hadron correlation in 
+ heavy ion collisions?
+DTSTART;VALUE=DATE-TIME:20071206T080500Z
+DTEND;VALUE=DATE-TIME:20071206T085000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981166@indico.cern.ch
+DESCRIPTION:Speakers: Peter Levai (KFKI Research Institute for Particle an
+ d Nuclear Physics)\nhttps://indico.cern.ch/event/47153/contributions/19811
+ 66/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981166/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greetings from MTA KFKI RMKI
+DTSTART;VALUE=DATE-TIME:20071206T080000Z
+DTEND;VALUE=DATE-TIME:20071206T080500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981168@indico.cern.ch
+DESCRIPTION:Speakers: Zoltán Szõkefalvi-Nagy (MTA KFKI RMKI\, Budapest\,
+  Hungary)\nhttps://indico.cern.ch/event/47153/contributions/1981168/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981168/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jet energy loss in dilute and dense parton matter
+DTSTART;VALUE=DATE-TIME:20071206T091500Z
+DTEND;VALUE=DATE-TIME:20071206T094500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981170@indico.cern.ch
+DESCRIPTION:Speakers: Andras Gabor Agocs (KFKI Research Institute for Part
+ icle and Nuclear Physics-Hungari)\nhttps://indico.cern.ch/event/47153/cont
+ ributions/1981170/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981170/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VHMPID: a new detector for particle identification at ALICE
+DTSTART;VALUE=DATE-TIME:20071206T085000Z
+DTEND;VALUE=DATE-TIME:20071206T091500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981172@indico.cern.ch
+DESCRIPTION:Speakers: Gergoe Hamar (Eotvos Lorand University-Unknown-Unkno
+ wn)\nhttps://indico.cern.ch/event/47153/contributions/1981172/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981172/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recent Results from the Quark Coalescence Model
+DTSTART;VALUE=DATE-TIME:20071206T104500Z
+DTEND;VALUE=DATE-TIME:20071206T111500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981173@indico.cern.ch
+DESCRIPTION:Speakers: Károly Ürmössy (Budapest Technical University\, B
+ udapest\, Hungary)\nhttps://indico.cern.ch/event/47153/contributions/19811
+ 73/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981173/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Initial conditions for hydrodynamic expansion of fireball
+DTSTART;VALUE=DATE-TIME:20071206T101500Z
+DTEND;VALUE=DATE-TIME:20071206T104500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981174@indico.cern.ch
+DESCRIPTION:Speakers: Andrij Nazarenko (Bogoliubov Institute for Theoretic
+ al Physics\, Kiev\, Ukraine)\nhttps://indico.cern.ch/event/47153/contribut
+ ions/1981174/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981174/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two phase-flow calculations for proton-mercury interaction in the 
+ planned European Spallation Source facility
+DTSTART;VALUE=DATE-TIME:20071206T131500Z
+DTEND;VALUE=DATE-TIME:20071206T140000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981175@indico.cern.ch
+DESCRIPTION:Speakers: Imre Barna (MTA KFKI AEKI\, Budapest\, Hungary)\nhtt
+ ps://indico.cern.ch/event/47153/contributions/1981175/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981175/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Negative Pressure States in Condensed Matters
+DTSTART;VALUE=DATE-TIME:20071206T123000Z
+DTEND;VALUE=DATE-TIME:20071206T131500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981176@indico.cern.ch
+DESCRIPTION:Speakers: Attila Imre (MTA KFKI AEKI\, Budapest\, Hungary)\nht
+ tps://indico.cern.ch/event/47153/contributions/1981176/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981176/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Equation of state of the hot and dense nuclear matter - Metastabil
+ ity and fluctuations
+DTSTART;VALUE=DATE-TIME:20071206T140000Z
+DTEND;VALUE=DATE-TIME:20071206T143000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981177@indico.cern.ch
+DESCRIPTION:Speakers: László Jenkovszky (Bogoliubov Institute for Theore
+ tical Physics\, Kiev\, Ukraine)\nhttps://indico.cern.ch/event/47153/contri
+ butions/1981177/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981177/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closing of the School
+DTSTART;VALUE=DATE-TIME:20071207T140000Z
+DTEND;VALUE=DATE-TIME:20071207T140500Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981179@indico.cern.ch
+DESCRIPTION:Speakers: Tamas Ferenc Csorgo (KFKI Research Institute for Par
+ ticle and Nuclear Physics-Hungari)\nhttps://indico.cern.ch/event/47153/con
+ tributions/1981179/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981179/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unified description of Bjorken's and Landau's 1+1 dimensional rela
+ tivistic hydrodynamics
+DTSTART;VALUE=DATE-TIME:20071207T130000Z
+DTEND;VALUE=DATE-TIME:20071207T140000Z
+DTSTAMP;VALUE=DATE-TIME:20191122T144126Z
+UID:indico-contribution-47153-1981180@indico.cern.ch
+DESCRIPTION:Speakers: Robert Peschanski (Saclay\, France)\nhttps://indico.
+ cern.ch/event/47153/contributions/1981180/
+LOCATION:MTA KFKI RMKI Tanácsterem
+URL:https://indico.cern.ch/event/47153/contributions/1981180/
+END:VEVENT
+END:VCALENDAR
